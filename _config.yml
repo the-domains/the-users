@@ -1,6 +1,6 @@
 name: the-users
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.8519
 typography_spectrum: 0.3474800034891814
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.1399895679205656
+  brandStrength: 0
   lightness: 0.009478264022618532
-  saturation: 0.8855425210203975
-  rhythmicContrast: 0.08261216781102121
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
