@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Jon Henley
-    url: 'http://www.theguardian.com/profile/jonhenley'
-    avatar: {}
-related: []
-publisher:
-  name: the Guardian
-  domain: www.theguardian.com
-  url: 'http://www.theguardian.com'
-  favicon: 'https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.theguardian.com/world/2016/mar/09/severed-head-amsterdam-cafe-drugs-gang-war-netherlands'
+inLanguage: en
+starred: true
 keywords:
   - dutch
   - gangs
@@ -21,7 +17,13 @@ keywords:
   - koeman
   - amzieb
 description: 'A day after a decapitated corpse was discovered in a burning car in south-east Amsterdam, the severed head that belonged to it has been found outside a cafe near the city centre. In a gruesome new development in an increasingly violent war between rival Dutch drug gangs, police told local media the body parts were those of Nabil Amzieb, 23, a known gang member.'
-inLanguage: en
+datePublished: '2016-03-18T19:58:56.304Z'
+dateModified: '2016-03-18T19:41:17.085Z'
+author:
+  - name: Jon Henley
+    url: 'http://www.theguardian.com/profile/jonhenley'
+    avatar: {}
+related: []
 app_links:
   - url: 'gnmguardian://world/2016/mar/09/severed-head-amsterdam-cafe-drugs-gang-war-netherlands?contenttype=Article&source=applinks'
     type: ios
@@ -47,17 +49,15 @@ app_links:
     package: '409128287'
     namespace: google
     type: ios
-isBasedOnUrl: 'http://www.theguardian.com/world/2016/mar/09/severed-head-amsterdam-cafe-drugs-gang-war-netherlands'
 title: Severed head found outside Amsterdam cafe linked to drugs gang war
-datePublished: '2016-03-18T19:41:12.718Z'
-dateModified: '2016-03-18T19:40:30.225Z'
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
-authors: []
 sourcePath: _posts/2016-03-18-severed-head-found-outside-amsterdam-cafe-linked-to-drugs-ga.md
 published: true
+authors: []
+publisher:
+  name: the Guardian
+  domain: www.theguardian.com
+  url: 'http://www.theguardian.com'
+  favicon: 'https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
