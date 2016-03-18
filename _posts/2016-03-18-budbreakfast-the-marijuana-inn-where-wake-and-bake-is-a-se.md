@@ -17,8 +17,8 @@ keywords:
   - colorado
   - tourists
 description: "Joel and Lisa Schneider's bed and breakfast in Silverthorne, Colorado, has all the trappings of a traditional B&B (stone fireplace, home-cooked meals, an alarmingly cute dog), with one significant addition: a complimentary bar of seven marijuana strains, and more than a dozen different implements to smoke them out of."
-datePublished: '2016-03-18T19:41:36.704Z'
-dateModified: '2016-03-18T19:35:54.829Z'
+datePublished: '2016-03-18T19:59:05.875Z'
+dateModified: '2016-03-18T19:41:45.962Z'
 author:
   - name: Josiah Hesse
     url: 'http://www.theguardian.com/profile/josiah-hesse'
