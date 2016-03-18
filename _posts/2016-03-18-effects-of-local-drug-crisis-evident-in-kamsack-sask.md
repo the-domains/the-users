@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654'
 title: 'Effects of local drug crisis evident in Kamsack, Sask.'
-datePublished: '2016-03-18T19:57:38.891Z'
-dateModified: '2016-03-18T19:57:17.954Z'
+datePublished: '2016-03-18T23:03:45.712Z'
+dateModified: '2016-03-18T23:03:38.385Z'
 inFeed: true
 hasPage: false
 inNav: false
