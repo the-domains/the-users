@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  name: Fox News
-  domain: www.foxnews.com
-  url: 'http://www.foxnews.com'
-  favicon: 'http://global.fncstatic.com/static/v/fn2/img/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.foxnews.com/politics/2016/03/18/personnel-at-nuke-base-probed-for-drug-use.html'
+inLanguage: en
+starred: true
 keywords:
   - airmen
   - investigation
@@ -18,21 +17,22 @@ keywords:
   - alleged
   - cocaine
 description: Defense officials say the Air Force is investigating about a dozen airmen at a nuclear missile base for alleged use of illegal drugs.
-inLanguage: en
+datePublished: '2016-03-18T19:42:07.727Z'
+dateModified: '2016-03-18T19:28:25.804Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.foxnews.com/politics/2016/03/18/personnel-at-nuke-base-probed-for-drug-use.html'
 title: 'Personnel at nuke base probed for drug use | Fox News'
-datePublished: '2016-03-18T19:24:56.439Z'
-dateModified: '2016-03-18T19:24:44.722Z'
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
-authors: []
 sourcePath: _posts/2016-03-18-personnel-at-nuke-base-probed-for-drug-use-or-fox-news.md
 published: true
+authors: []
+publisher:
+  name: Fox News
+  domain: www.foxnews.com
+  url: 'http://www.foxnews.com'
+  favicon: 'http://global.fncstatic.com/static/v/fn2/img/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Personnel at nuke base probed for drug use | Fox News</h1><p>Defense officials say the Air Force is investigating about a dozen airmen at a nuclear missile base for alleged use of illegal drugs.</p><img src="http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg" /></article>
+<article style=""><h1>Personnel at nuke base probed for drug use | Fox News</h1><p>Defense officials say the Air Force is investigating about a dozen airmen at a nuclear missile base for alleged use of illegal drugs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/617b5398a589d1d55e824b84e5e9dddd0874c3c0.jpg" /></article>
