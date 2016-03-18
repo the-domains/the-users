@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[the-users]]></title>
         <description><![CDATA[the-users]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-users/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 19:25:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 19:27:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-users/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drugs, Guns, Cash Seized in Drug Bust]]></title>
+            <description><![CDATA[<article><h1>Drugs, Guns, Cash Seized in Drug Bust</h1><p>KINGSTON - More than $50,000 worth of marijuana has landed five people behind bars in Luzerne County. Kingston officers seized 12 pounds of pot, five guns, and over $44,000 in cash in Thursday's bust. Police charged Matthew Klinges, 21, of Kingston; Matthew Mackiewicz, 18, of Forty Fort; and Jordan Stravolo, 22, of Kingston.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad4840dcf1af0c0552e07b9160c8f109a2e6093c.jpg"></article>]]></description>
+            <link>http://wnep.com/2016/03/18/drugs-guns-cash-seized-in-drug-bust/</link>
+            <guid isPermaLink="false">b270c350-ec8c-4259-8b55-643bb812ac87</guid>
+            <pubDate>Fri, 18 Mar 2016 19:26:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Personnel at nuke base probed for drug use | Fox News]]></title>
             <description><![CDATA[<article><h1>Personnel at nuke base probed for drug use | Fox News</h1><p>Defense officials say the Air Force is investigating about a dozen airmen at a nuclear missile base for alleged use of illegal drugs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/617b5398a589d1d55e824b84e5e9dddd0874c3c0.jpg"></article>]]></description>
