@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[the-users]]></title>
         <description><![CDATA[the-users]]></description>
-        <link>https://thegrid.ai/the-users/</link>
+        <link>http://www.the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 18:31:22 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/the-users/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 19:10:26 GMT</lastBuildDate>
+        <atom:link href="http://www.the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
             <description><![CDATA[<article><h1>Effects of local drug crisis evident in Kamsack, Sask.</h1><p>If the first step to recovery is admitting there's a problem, three First Nations around Kamsack, in east-central Saskatchewan, have reached that point. ​Leaders of the Federation of Saskatchewan Indian Nations and the Key, Cote and Keeseekoose First Nations sounded the alarm this week about a crisis in their communities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13fe00830287b4ab57df8d74dbf6ff04a37c1c91.png"></article>]]></description>
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thinking to some purpose]]></title>
+            <description><![CDATA[<article><h1>Thinking to some purpose</h1><p>I spent a great day on Wednesday at the annual Alcohol Research UK conference. There was a huge amount of evidence on show, and discussion about the nature of evidence-based policy, how research can produce impact and shape policy. The discussion really boiled down to whether there could be a common language, and genuine communication between researchers and policymakers.</p></article>]]></description>
+            <link>http://thinking-to-some-purpose.blogspot.dk/2016/03/individuals-society-and-desirable.html</link>
+            <guid isPermaLink="false">25ee1d98-e0bc-461e-9e70-c89326721488</guid>
+            <pubDate>Sat, 19 Mar 2016 19:10:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is there something weird about our taste for apocalypse stories? - Frank Bures - Aeon Essays]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=rjAiojfJMxs</link>
             <guid isPermaLink="false">950d795b-48f1-4814-a4c1-870da517ac56</guid>
             <pubDate>Sat, 19 Mar 2016 16:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Psychedelics can't be tested using conventional clinical trials - Nicolas Langlitz - Aeon Opinions]]></title>
-            <description><![CDATA[<article><h1>Psychedelics can't be tested using conventional clinical trials - Nicolas Langlitz - Aeon Opinions</h1><p>Psychedelic research is back from underground laboratories to university hospitals. When LSD, mescaline and psilocybin were prohibited in 1970, all academic research on humans was abandoned for two decades. Now the return of psychedelic drugs to highly regarded research facilities, which began in the 1990s, is on the verge of reaching its goal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28a9a0a177917535f4e7276aaeb14fcca8ba4684.jpg"></article>]]></description>
-            <link>https://aeon.co/opinions/psychedelics-can-t-be-tested-using-conventional-clinical-trials</link>
-            <guid isPermaLink="false">ac1f4b95-ad32-4378-8082-698e89ee7868</guid>
-            <pubDate>Sat, 19 Mar 2016 16:38:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
