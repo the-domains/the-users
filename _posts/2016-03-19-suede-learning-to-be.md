@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Paul Connelly
-    url: 'https://www.youtube.com/channel/UCMNwiKpqpvM0WuGeV7hiSyw'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=TfAVXEN49sU'
+inLanguage: en
+starred: false
 keywords:
   - suede
   - duration
@@ -21,7 +17,13 @@ keywords:
   - fur
   - feathers
 description: Suede - Night Thoughts (2016)
-inLanguage: en
+datePublished: '2016-03-19T12:19:58.594Z'
+dateModified: '2016-03-19T12:19:56.328Z'
+author:
+  - name: Paul Connelly
+    url: 'https://www.youtube.com/channel/UCMNwiKpqpvM0WuGeV7hiSyw'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=TfAVXEN49sU&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=TfAVXEN49sU'
 title: Suede - Learning to Be
-datePublished: '2016-03-19T12:12:53.983Z'
-dateModified: '2016-03-19T12:12:15.022Z'
 sourcePath: _posts/2016-03-19-suede-learning-to-be.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
