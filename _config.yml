@@ -1,7 +1,7 @@
 name: the-users
 favicon: null
 layout_spectrum: 0.74174
-typography_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
