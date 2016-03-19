@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>https://thegrid.ai/the-users/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 23:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 08:53:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-users/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fentanyl an increasing problem but other drugs causing majority of overdose deaths]]></title>
+            <description><![CDATA[<article><h1>Fentanyl an increasing problem but other drugs causing majority of overdose deaths</h1><p>​The number of illicit drug overdose deaths in which fentanyl was detected has been steadily increasing over the past few years, but the majority of deaths are still being caused by other drugs - including cocktails of different drugs taken together - says the B.C. Coroners Service.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/120ce4f606ad8a276ba04fe454ebcad1f6648054.jpg"></article>]]></description>
+            <link>http://www.cbc.ca/news/canada/british-columbia/fentanyl-an-increasing-problem-but-other-drugs-still-causing-most-overdose-deaths-1.3496213</link>
+            <guid isPermaLink="false">6e6aab30-e2d8-487f-a3bd-60991046d593</guid>
+            <pubDate>Sat, 19 Mar 2016 08:52:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Report of the expert panel on cannabis regulation in the UK - published today]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.independent.co.uk/life-style/health-and-families/health-news/the-5-most-addictive-drugs-in-the-world-a6924746.html</link>
             <guid isPermaLink="false">c0f432a0-891f-4ea3-8234-500d06bd0761</guid>
             <pubDate>Fri, 18 Mar 2016 21:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Christy Kinahan: Inside the Dublin kingpin's European drugs enterprise - BBC News]]></title>
-            <description><![CDATA[<article><h1>Christy Kinahan: Inside the Dublin kingpin's European drugs enterprise - BBC News</h1><p>Until last month, Christy Kinahan was largely unknown to the general public. The Dublin man's name and activities were mainly of interest to Irish police and crime journalists. But over the course of four violent February days, Kinahan, and the criminal enterprise that bears his name, attracted global interest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7af881e1755e35b249d9788d1bf702fc33071b3a.jpg"></article>]]></description>
-            <link>http://www.bbc.co.uk/news/world-europe-35815528</link>
-            <guid isPermaLink="false">6e81c003-6661-44be-8f6d-b8288e3376d3</guid>
-            <pubDate>Fri, 18 Mar 2016 21:42:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
