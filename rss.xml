@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://www.the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 20:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 20:12:52 GMT</lastBuildDate>
         <atom:link href="http://www.the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When did the self-help movement lose its ethical seriousness? - Jennifer Ratner-Rosenhagen - Aeon Essays]]></title>
+            <description><![CDATA[<article><h1>When did the self-help movement lose its ethical seriousness? - Jennifer Ratner-Rosenhagen - Aeon Essays</h1><p>With metronomic regularity, new books about both the strange and the mundane things human beings do with metronomic regularity become bestsellers. The American 'habit' industry produces a huge popular literature examining how habits are formed and how they are broken, how they enable and how they hinder, and how they are a function of heroic self-discipline or a confession of its absence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a16678a78f2e6b9bcd237386cd75d78bd8f1e538.jpg"></article>]]></description>
+            <link>https://aeon.co/essays/when-did-the-self-help-movement-lose-its-ethical-seriousness</link>
+            <guid isPermaLink="false">fa35d5a9-db13-4778-806c-37c34870f3f2</guid>
+            <pubDate>Sat, 19 Mar 2016 20:12:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Five Finger Death Punch - My Nemesis]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/commentisfree/2016/mar/18/prisoners-ethnic-minorities-independent-review</link>
             <guid isPermaLink="false">a345004c-7a93-4e1a-ae19-1c17219da699</guid>
             <pubDate>Sat, 19 Mar 2016 17:30:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do hangovers really get worse as you get older?]]></title>
-            <description><![CDATA[<article><h1>Do hangovers really get worse as you get older?</h1><p>You drink, you drink, you drink and then somehow, you get up, shake it off, and get on with your life. Remember when drinking was like that, when you were young and invincible and you hadn't really thought through the meaning of student debt? That was nice wasn't it?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2adfe624edfb846a00159ed1cb95db905adfc593.png"></article>]]></description>
-            <link>http://thetab.com/2016/03/15/hangovers-really-get-worse-get-older-80103</link>
-            <guid isPermaLink="false">6cb67e74-f0cf-4f6b-9693-5fda159753e5</guid>
-            <pubDate>Sat, 19 Mar 2016 17:21:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
