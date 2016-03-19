@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>https://thegrid.ai/the-users/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 09:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 11:04:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-users/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to Herointown, New Jersey's 4th-largest city]]></title>
+            <description><![CDATA[<article><h1>Welcome to Herointown, New Jersey's 4th-largest city</h1><p>With reporting from Andre Malok and Ashley Peskoe. Illustrations by Anna Vignet. What would happen if you took everyone who is addicted to heroin in New Jersey and sent them to live in one place? It would be the state's fourth largest city, boasting a population of at least 128,000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee73cbcd82fbf5a6632f601f4295938222cfe0bf.jpg"></article>]]></description>
+            <link>http://www.nj.com/news/index.ssf/page/welcome_to_herointown_new_jerseys_4th_largest_city.html</link>
+            <guid isPermaLink="false">13427a0c-5995-4fb7-9209-24d74993b4bb</guid>
+            <pubDate>Sat, 19 Mar 2016 11:04:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Professor David Nutt: 'Any drug less harmful than alcohol should be available legally']]></title>
@@ -68,13 +75,6 @@
             <link>http://www.huffingtonpost.com/the-influence/these-lousy-drugs-are-going-end-drug-war_b_9402238.html</link>
             <guid isPermaLink="false">30b7c284-82a6-4112-a403-55f0889c28fc</guid>
             <pubDate>Fri, 18 Mar 2016 22:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is capitalism fuelling the war on drugs?]]></title>
-            <description><![CDATA[<article><h1>Is capitalism fuelling the war on drugs?</h1><p>"This is a policy of the government: to clear us off the territory that is ours, as campesinos and indigenous peoples, because there are many indigenous communities who have their lands taken away by war, by the terror that they instill in the communities to remove us from our territory so that they can come and extract natural resources" - Fernando Roa, farmer and vice president of Santo Domingo's communal action council.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff146141c376e903d5f843bbfd9c6324b8c2a1ce.jpg"></article>]]></description>
-            <link>https://www.opendemocracy.net/drugpolicy/opendemocracy-dawn-paley/is-capitalism-fuelling-war-on-drugs</link>
-            <guid isPermaLink="false">908d0faf-9ee6-4d34-afb4-290caac9f099</guid>
-            <pubDate>Fri, 18 Mar 2016 22:07:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
