@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>https://thegrid.ai/the-users/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 11:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 12:05:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-users/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A common drug for ulcers could prevent alcohol abuse]]></title>
+            <description><![CDATA[<article><h1>A common drug for ulcers could prevent alcohol abuse</h1><p>There are almost no medicines available to treat alcoholism, but that might be about to change. A new study shows that a substance commonly used to treat stomach ailments may also hold the key to reducing the craving for alcohol.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aeeadbeed06f3a5b9d882026001335d9dd7c724a.png"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/03/a-common-drug-for-ulcers-could-prevent-alcohol-abuse/</link>
+            <guid isPermaLink="false">1879509c-9e10-46e3-b772-4b0edad809c1</guid>
+            <pubDate>Sat, 19 Mar 2016 12:05:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PUSCIFER "THE REMEDY" official video]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.news.com.au/lifestyle/health/health-problems/as-australian-authorities-prevent-pill-testing-the-us-is-quietly-telling-festivalgoers-all-about-their-drugs/news-story/a60026bba04507883d402d2428d4fef3</link>
             <guid isPermaLink="false">3dcb4935-2030-44f7-9f27-b1194ed6a91f</guid>
             <pubDate>Sat, 19 Mar 2016 09:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drugs gang smuggled £24m worth of cannabis in carpets]]></title>
-            <description><![CDATA[<article><h1>Drugs gang smuggled £24m worth of cannabis in carpets</h1><p>A drugs gang are facing jail after smuggling £24 million worth of cannabis concealed in industrial tubes wrapped up in carpets.&#13; &#13; The men, who lived in east London and the Home Counties, were convicted at Wood Green Crown Court today, after police uncovered the international smuggling operation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fea2a95bc8861096613821b7dfdaf43364cf0d91.jpg"></article>]]></description>
-            <link>http://www.standard.co.uk/news/crime/drugs-gang-found-guilty-of-smuggling-24-million-worth-of-cannabis-in-carpets-a3207336.html</link>
-            <guid isPermaLink="false">a6feee69-4f6e-4dd7-a224-5deefb32e7f8</guid>
-            <pubDate>Sat, 19 Mar 2016 08:54:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
