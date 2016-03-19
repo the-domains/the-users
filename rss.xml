@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://www.the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 21:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 21:25:47 GMT</lastBuildDate>
         <atom:link href="http://www.the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding PTSD's Effects on Brain, Body, and Emotions | Janet Seahorn | TEDxCSU]]></title>
+            <description><![CDATA[<article><h1>Understanding PTSD's Effects on Brain, Body, and Emotions | Janet Seahorn | TEDxCSU</h1><p>PTSD disrupts the lives of average individuals as well as combat veterans who have served their country. The person experiencing the trauma often then impacts the lives of his/her family, friends, and workplaces. PTSD does not distinguish between race, age or gender and often goes undiagnosed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4187a3d776244b24e1ee96717c0e4fbe676bf799.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=BEHDQeIRTgs</link>
+            <guid isPermaLink="false">92be4c80-dfb7-4a0e-b56b-e41235962a78</guid>
+            <pubDate>Sat, 19 Mar 2016 21:25:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Psychoactive Substances conference - the expert view]]></title>
@@ -68,13 +75,6 @@
             <link>http://thinking-to-some-purpose.blogspot.dk/2016/03/individuals-society-and-desirable.html</link>
             <guid isPermaLink="false">25ee1d98-e0bc-461e-9e70-c89326721488</guid>
             <pubDate>Sat, 19 Mar 2016 19:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there something weird about our taste for apocalypse stories? - Frank Bures - Aeon Essays]]></title>
-            <description><![CDATA[<article><h1>Is there something weird about our taste for apocalypse stories? - Frank Bures - Aeon Essays</h1><p>One day in the early 1980s, I was flipping through the TV channels, when I stopped at a news report. The announcer was grey-haired. His tone was urgent. His pronouncement was dire: between the war in the Middle East, famine in Africa, AIDS in the cities, and communists in Afghanistan, it was clear that the Four Horsemen of the Apocalypse were upon us.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7934ce1ae99183349437b3503661590744921656.jpg"></article>]]></description>
-            <link>https://aeon.co/essays/is-there-something-weird-about-our-taste-for-apocalypse-stories</link>
-            <guid isPermaLink="false">7f4896c6-f72a-46a4-bb72-96f08e9cbb1e</guid>
-            <pubDate>Sat, 19 Mar 2016 18:30:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
