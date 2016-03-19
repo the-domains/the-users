@@ -17,8 +17,8 @@ keywords:
   - fur
   - feathers
 description: Suede - Night Thoughts (2016)
-datePublished: '2016-03-19T12:19:58.594Z'
-dateModified: '2016-03-19T12:19:56.328Z'
+datePublished: '2016-03-19T12:34:23.359Z'
+dateModified: '2016-03-19T12:34:19.831Z'
 author:
   - name: Paul Connelly
     url: 'https://www.youtube.com/channel/UCMNwiKpqpvM0WuGeV7hiSyw'
