@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>https://thegrid.ai/the-users/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 14:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 14:14:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-users/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leading California Anti-Pot Activist Says Marijuana Causes 'Almost All' Mass Murders]]></title>
+            <description><![CDATA[<article><h1>Leading California Anti-Pot Activist Says Marijuana Causes 'Almost All' Mass Murders</h1><p>Harry Anslinger, who directed the Federal Bureau of Narcotics from 1932 to 1962, famously described marijuana as a "killer weed" that inspired irrational acts of savage violence. Anslinger's method was simple: He would identify crimes committed by marijuana users and assert that the drug must have been the cause.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdb0c1e3497c29d5b7c7596deb0d46ab0c140eba.jpg"></article>]]></description>
+            <link>http://reason.com/blog/2016/03/13/leading-california-anti-pot-activist-say</link>
+            <guid isPermaLink="false">ecfd4cc9-20b0-45c2-aa6e-7719cbaa2c47</guid>
+            <pubDate>Sat, 19 Mar 2016 14:13:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Massive Attack, Azekel - Ritual Spirit]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.vice.com/read/can-you-really-die-from-an-mdma-allergy</link>
             <guid isPermaLink="false">c3f6031c-1fce-40ec-ada0-270840507cbc</guid>
             <pubDate>Sat, 19 Mar 2016 12:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A common drug for ulcers could prevent alcohol abuse]]></title>
-            <description><![CDATA[<article><h1>A common drug for ulcers could prevent alcohol abuse</h1><p>There are almost no medicines available to treat alcoholism, but that might be about to change. A new study shows that a substance commonly used to treat stomach ailments may also hold the key to reducing the craving for alcohol.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aeeadbeed06f3a5b9d882026001335d9dd7c724a.png"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/03/a-common-drug-for-ulcers-could-prevent-alcohol-abuse/</link>
-            <guid isPermaLink="false">1879509c-9e10-46e3-b772-4b0edad809c1</guid>
-            <pubDate>Sat, 19 Mar 2016 12:05:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
