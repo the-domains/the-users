@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>https://thegrid.ai/the-users/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 12:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 12:20:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-users/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Homeless Man Dies In Jail After Being Locked Up For Marijuana Possession]]></title>
+            <description><![CDATA[<article><h1>Homeless Man Dies In Jail After Being Locked Up For Marijuana Possession</h1><p>Jeffrey Pendleton, a homeless man who won several legal battles over the criminalization of the poor, died in a New Hampshire jail on Sunday after not being able to afford bail. The New Hampshire Union Leader reports that Pendleton, 26, was arrested last Wednesday on a marijuana possession charge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e84daf4bb70c2923797695f20fce5a8bfdb27962.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/entry/jeffrey-pendleton-death-marijuana_us_56e83dbae4b0860f99da7d42</link>
+            <guid isPermaLink="false">3db28db6-0913-4f8a-956d-de6cbdacdfc1</guid>
+            <pubDate>Sat, 19 Mar 2016 12:19:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Suede - Learning to Be]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.rawstory.com/2016/03/ten-huge-drug-ripoffs-that-big-pharma-is-campaigning-to-continue/</link>
             <guid isPermaLink="false">295537fa-bcfe-4c98-927d-ba2d4fb3cc60</guid>
             <pubDate>Sat, 19 Mar 2016 11:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to Herointown, New Jersey's 4th-largest city]]></title>
-            <description><![CDATA[<article><h1>Welcome to Herointown, New Jersey's 4th-largest city</h1><p>With reporting from Andre Malok and Ashley Peskoe. Illustrations by Anna Vignet. What would happen if you took everyone who is addicted to heroin in New Jersey and sent them to live in one place? It would be the state's fourth largest city, boasting a population of at least 128,000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee73cbcd82fbf5a6632f601f4295938222cfe0bf.jpg"></article>]]></description>
-            <link>http://www.nj.com/news/index.ssf/page/welcome_to_herointown_new_jerseys_4th_largest_city.html</link>
-            <guid isPermaLink="false">13427a0c-5995-4fb7-9209-24d74993b4bb</guid>
-            <pubDate>Sat, 19 Mar 2016 11:04:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
