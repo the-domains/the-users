@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>https://thegrid.ai/the-users/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 16:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 16:38:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-users/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Psychedelics can't be tested using conventional clinical trials - Nicolas Langlitz - Aeon Opinions]]></title>
+            <description><![CDATA[<article><h1>Psychedelics can't be tested using conventional clinical trials - Nicolas Langlitz - Aeon Opinions</h1><p>Psychedelic research is back from underground laboratories to university hospitals. When LSD, mescaline and psilocybin were prohibited in 1970, all academic research on humans was abandoned for two decades. Now the return of psychedelic drugs to highly regarded research facilities, which began in the 1990s, is on the verge of reaching its goal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28a9a0a177917535f4e7276aaeb14fcca8ba4684.jpg"></article>]]></description>
+            <link>https://aeon.co/opinions/psychedelics-can-t-be-tested-using-conventional-clinical-trials</link>
+            <guid isPermaLink="false">ac1f4b95-ad32-4378-8082-698e89ee7868</guid>
+            <pubDate>Sat, 19 Mar 2016 16:38:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Secret Life of a Silk Road 2.0 Mastermind]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.nytimes.com/2016/03/11/sports/tennis/maria-sharapova-meldonium-positive-tests.html?_r=0</link>
             <guid isPermaLink="false">6c5bff15-c8f9-4a75-9e6a-a1ad60ece567</guid>
             <pubDate>Sat, 19 Mar 2016 15:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drug Dealers Explain How They Keep Their Hustles Secret from Their Families | VICE | United States]]></title>
-            <description><![CDATA[<article><h1>Drug Dealers Explain How They Keep Their Hustles Secret from Their Families | VICE | United States</h1><p>The are many reasons people deal drugs, but they are generally pretty simple. Some do it because they don't have any other way to survive. Some do it because it gives them power, or it gives them the trappings of status, wealth, and control that can result from the hustle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b281cc3d9a5fefead5d0ff707b6340f1cb2f2665.jpg"></article>]]></description>
-            <link>http://www.vice.com/read/the-lies-drug-dealers-tell-people-to-keep-their-careers-secret</link>
-            <guid isPermaLink="false">0b05eb03-84ab-41a3-9a44-c250595fb699</guid>
-            <pubDate>Sat, 19 Mar 2016 15:57:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
