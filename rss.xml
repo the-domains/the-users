@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>https://thegrid.ai/the-users/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 12:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 12:51:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-users/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the British Empire Was Built on Rum]]></title>
+            <description><![CDATA[<article><h1>Why the British Empire Was Built on Rum</h1><p>For a long time, rum was a drink commonly issued to English sailors and soldiers. In the 18th century it replaced the traditional alcoholic beverages distributed to seamen and infantrymen, namely the more common beer and the less common wine and brandy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a86adf2eafa88da0d5ab33fd663c08c3c619fb2.jpg"></article>]]></description>
+            <link>http://theinfluence.org/why-the-british-empire-was-built-on-rum/</link>
+            <guid isPermaLink="false">00693949-895c-4ecb-bf10-3b77d6634d60</guid>
+            <pubDate>Sat, 19 Mar 2016 12:50:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cannabis Drug Succeeds In Epilepsy, Doubling Value Of GW Pharma]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/world/2016/mar/16/france-state-of-emergency-many-forms-pupils-allowed-to-smoke-in-school-paris?CMP=fb_gu</link>
             <guid isPermaLink="false">4b88be45-df89-4d17-9b48-3593671de2b4</guid>
             <pubDate>Sat, 19 Mar 2016 11:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roots of opioid epidemic can be traced back to two key changes in pain management]]></title>
-            <description><![CDATA[<article><h1>Roots of opioid epidemic can be traced back to two key changes in pain management</h1><p>Abuse of opium products obtained from poppy plants dates back centuries, but today we are witnessing the first instance of widespread abuse of legal, prescribed drugs that, while structurally similar to illicit opioids such as heroin, are used for sound medical practices. So how did we get here?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d3ec64cfdbb5838d9065e751e869dfa8b2a1d85.jpg"></article>]]></description>
-            <link>http://theconversation.com/roots-of-opioid-epidemic-can-be-traced-back-to-two-key-changes-in-pain-management-50647</link>
-            <guid isPermaLink="false">1ee66cba-77b6-464f-b9af-713602a180fc</guid>
-            <pubDate>Sat, 19 Mar 2016 11:39:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
