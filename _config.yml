@@ -23,6 +23,6 @@ color:
     - '#de873c'
   brandStrength: 1
   lightness: 0
-  saturation: 1
+  saturation: 0.875
   rhythmicContrast: 1
 purpose: []
