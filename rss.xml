@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://www.the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 19:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 20:00:09 GMT</lastBuildDate>
         <atom:link href="http://www.the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alcohol and Tobacco in French teenagers' favorite TV shows]]></title>
+            <description><![CDATA[<article><h1>Alcohol and Tobacco in French teenagers' favorite TV shows</h1><p>Boris Chapoton is a researcher in cancer prevention . In this article, he provides an overview of his work on media influence and substance use in young people, which led to him being awarded the EUSPR/ SPAN Early Career Researcher Prize at the recent EUSPR conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2995a7433fc1e9c0b15e372da2a32b36582dba06.jpg"></article>]]></description>
+            <link>http://euspr.hypotheses.org/183</link>
+            <guid isPermaLink="false">2f998f4a-f9a8-4af3-bc24-20562e3dedb0</guid>
+            <pubDate>Sat, 19 Mar 2016 20:00:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arsenic was their poison - we have tobacco, guns and sugar | David Shariatmadari]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.vice.com/en_uk/read/drug-trafficking-gang-fake-flower-business-uk</link>
             <guid isPermaLink="false">ec1ea80e-4a16-4cba-b06d-5d32b6f1756c</guid>
             <pubDate>Sat, 19 Mar 2016 17:20:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five giant missiles have been delivered to Downing Street]]></title>
-            <description><![CDATA[<article><h1>Five giant missiles have been delivered to Downing Street</h1><p>Protesting the sale of deadly British arms to the Yemen The stunt, organised by Amnesty International, saw dummy missiles paraded around Parliament to protest British arms sales to Yemen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3827f349005c56749651dde9985ae19dd832153.jpg"></article>]]></description>
-            <link>http://www.huckmagazine.com/art-and-culture/five-giant-missiles-delivered-downing-street/</link>
-            <guid isPermaLink="false">b84909ad-257a-450a-9f22-da2e06cf0263</guid>
-            <pubDate>Sat, 19 Mar 2016 17:15:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
