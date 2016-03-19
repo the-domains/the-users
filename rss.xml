@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://www.the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 21:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 22:35:35 GMT</lastBuildDate>
         <atom:link href="http://www.the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No more laughing gas? Tell us what you think of plans to ban legal highs | Sarah Marsh]]></title>
+            <description><![CDATA[<article><h1>No more laughing gas? Tell us what you think of plans to ban legal highs | Sarah Marsh</h1><p>Under a law expected to be passed in April, it will be illegal to possess with intent to supply everything from laughing gas to poppers. Critics say the bill is too broad, and could mean restricting any substance affecting a person's "mental or emotional state" except for alcohol and nicotine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b641308c33109336651c245f20ad122f4002ac7.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/commentisfree/2016/mar/15/laughing-gas-ban-legal-highs-law?CMP=Share_iOSApp_Other</link>
+            <guid isPermaLink="false">5b00b764-ed84-4a77-bbeb-6f7e74a474bd</guid>
+            <pubDate>Sat, 19 Mar 2016 22:35:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Understanding PTSD's Effects on Brain, Body, and Emotions | Janet Seahorn | TEDxCSU]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/commentisfree/2016/mar/18/poison-arsenic-gun-control-crime</link>
             <guid isPermaLink="false">83943dc3-42a2-4f81-855d-89f9faf4ea53</guid>
             <pubDate>Sat, 19 Mar 2016 19:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thinking to some purpose]]></title>
-            <description><![CDATA[<article><h1>Thinking to some purpose</h1><p>I spent a great day on Wednesday at the annual Alcohol Research UK conference. There was a huge amount of evidence on show, and discussion about the nature of evidence-based policy, how research can produce impact and shape policy. The discussion really boiled down to whether there could be a common language, and genuine communication between researchers and policymakers.</p></article>]]></description>
-            <link>http://thinking-to-some-purpose.blogspot.dk/2016/03/individuals-society-and-desirable.html</link>
-            <guid isPermaLink="false">25ee1d98-e0bc-461e-9e70-c89326721488</guid>
-            <pubDate>Sat, 19 Mar 2016 19:10:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
