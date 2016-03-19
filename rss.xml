@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://www.the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 20:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 20:25:19 GMT</lastBuildDate>
         <atom:link href="http://www.the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hyper Space Age]]></title>
+            <description><![CDATA[<article><h1>The Hyper Space Age</h1><p>July 11, 2011, Checkerboard Beach, Rarotonga, Cook Islands. I had joined the Black Pearl Eclipse adventure, arriving on the island with an oddly familiar crew of Aussie explorers who converged to witness a total solar eclipse. Fifty eclipse chasers occupied the Rarotonga Backpackers on a beach next to the Pacific Ocean.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99e5e121b1767330fd6945b15861854f7194275e.jpg"></article>]]></description>
+            <link>http://psypressuk.com/2016/02/14/the-hyper-space-age/</link>
+            <guid isPermaLink="false">7b6c341a-218b-48da-8cc3-4231e9764ddb</guid>
+            <pubDate>Sat, 19 Mar 2016 20:24:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When did the self-help movement lose its ethical seriousness? - Jennifer Ratner-Rosenhagen - Aeon Essays]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=498zUzNGQxY</link>
             <guid isPermaLink="false">ed726c8f-51d7-48f8-9da0-16d0bf0a040a</guid>
             <pubDate>Sat, 19 Mar 2016 17:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are so many prisoners from ethnic minorities? I intend to find out | David Lammy]]></title>
-            <description><![CDATA[<article><h1>Why are so many prisoners from ethnic minorities? I intend to find out | David Lammy</h1><p>Where America leads, Britain usually follows. Art and culture, film and fashion, language and political ideas all have a habit of crossing the Atlantic. But in one important area of British life we must resist this trend: the incarceration rates for ethnic minorities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25c4aabc39385d4acb70dd5ba2d5909b7a9dbda2.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/commentisfree/2016/mar/18/prisoners-ethnic-minorities-independent-review</link>
-            <guid isPermaLink="false">a345004c-7a93-4e1a-ae19-1c17219da699</guid>
-            <pubDate>Sat, 19 Mar 2016 17:30:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
