@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 09:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 09:49:35 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the impact of candy-like flavoured e-cigarette adverts on children?]]></title>
+            <description><![CDATA[<article><h1>What is the impact of candy-like flavoured e-cigarette adverts on children?</h1><p>Our first contribution comes from Dr Milica Vasiljevic, Research Associate at the Behaviour and Health Research Unit (BHRU), University of Cambridge, UK. Milica describes her recently published experimental study on e-cigarette advertising which was also awarded the 3rd SPAN Poster Prize at the EUSPR conference in Ljubljana in 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a698dd652e53754c5e1a5476db783b178c066ca6.jpg"></article>]]></description>
+            <link>http://euspr.hypotheses.org/145</link>
+            <guid isPermaLink="false">a0c0578d-f43f-4ba7-a867-30d2b8e42e5d</guid>
+            <pubDate>Sun, 20 Mar 2016 09:49:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jake Bugg - Gimme The Love]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.cbc.ca/news/canada/british-columbia/b-c-supremecourt-heroin-inmates-treatment-1.3499028</link>
             <guid isPermaLink="false">a2f3f21c-97e7-4180-83da-8543c6a3d37e</guid>
             <pubDate>Sun, 20 Mar 2016 08:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New effects of ketamine abuse uncovered: Extreme pain, bladder damage]]></title>
-            <description><![CDATA[<article><h1>New effects of ketamine abuse uncovered: Extreme pain, bladder damage</h1><p>Research has revealed how recreational ketamine abuse damages the bladder. In two studies, medical researchers show how ketamine present in urine causes damage to the epithelial lining of the bladder, allowing urine to penetrate into underlying tissues which causes inflammation and extreme pain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2b35da7b4aa679135841d95c6b577eb8edfbb66.jpg"></article>]]></description>
-            <link>https://www.sciencedaily.com/releases/2016/03/160318090442.htm</link>
-            <guid isPermaLink="false">12c1e296-60b6-4489-ba8f-a19ef0e6b42f</guid>
-            <pubDate>Sun, 20 Mar 2016 07:49:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
