@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 08:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 08:18:36 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Family Engulfed By Heroin Fights To Keep A Son Alive]]></title>
+            <description><![CDATA[<article><h1>A Family Engulfed By Heroin Fights To Keep A Son Alive</h1><p>Here's how I knew I liked Patti Trabosh. It goes back to the very first time I called her out of the blue to ask whether I might profile her family for a story on opioid addiction. The very first words out of her mouth were, "I'm pissed off!"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18900ef2befb9545c702f0592329acb860246e09.jpg"></article>]]></description>
+            <link>http://www.npr.org/sections/health-shots/2016/03/19/470280334/a-family-engulfed-by-heroin-fights-to-keep-a-son-alive</link>
+            <guid isPermaLink="false">1e38b153-9f13-4980-a3a5-492e3dd8f453</guid>
+            <pubDate>Sun, 20 Mar 2016 08:17:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Premature autism deaths are 'hidden crisis' says charity]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.addaction.org.uk/news/new-psychoactive-substances-conference-%E2%80%93-expert-view</link>
             <guid isPermaLink="false">12f37c20-7d0b-4c44-af5c-65b270489fc9</guid>
             <pubDate>Sat, 19 Mar 2016 21:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Psychedelic drug use 'does not increase risk for mental health problems']]></title>
-            <description><![CDATA[<article><h1>Psychedelic drug use 'does not increase risk for mental health problems'</h1><p>An analysis of data provided by 135,000 randomly selected participants - including 19,000 people who had used drugs such as LSD and magic mushrooms - finds that use of psychedelics does not increase risk of developing mental health problems. The results are published in the Journal of Psychopharmacology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f03164cd71d1f85a9e6627add0e2af2cf3d5580e.jpg"></article>]]></description>
-            <link>http://www.medicalnewstoday.com/articles/290461.php</link>
-            <guid isPermaLink="false">b0a6592c-0d8b-455b-a52b-3d44decb6197</guid>
-            <pubDate>Sat, 19 Mar 2016 20:40:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
