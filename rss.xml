@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 22:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 22:32:53 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Full Measure: Drugs on the Border]]></title>
+            <description><![CDATA[<article><h1>Full Measure: Drugs on the Border</h1><p>Immigration is a big issue in this Presidential campaign and there's a harsh reality on the border that you may be surprised to hear exists in America. U.S. border towns are so influenced by the influx of illegal smugglers and drugs, that it has worked its way into the fabric of daily life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5360a259d12de0c2f90cb68c9f0fba091a0f134.jpg"></article>]]></description>
+            <link>http://uppermichiganssource.com/news/nation-world/full-measure-drugs-on-the-border</link>
+            <guid isPermaLink="false">cf5b277e-d73a-4070-8d90-2ee3821eb080</guid>
+            <pubDate>Sun, 20 Mar 2016 22:32:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GROWING OLD UNGRACEFULLY: Drugs, the Futile War]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=9zb5rtVaPK4</link>
             <guid isPermaLink="false">91f27585-d47d-4f6d-8562-b629e69e118d</guid>
             <pubDate>Sun, 20 Mar 2016 13:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prisoner tunnels through cell wall to get high on stolen drugs]]></title>
-            <description><![CDATA[<article><h1>Prisoner tunnels through cell wall to get high on stolen drugs</h1><p>ALAMY In a Colditz-style operation, he removed bricks so he could help himself to pills and liquid medicine. Once stoned, he headed back to his cell where he was found slumped on his bed by prison officers. The alarm was raised when a staff member spotted bricks had been taken out of a wall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9e06500000dd4f20ef0489e3eb8b250561013d7.jpg"></article>]]></description>
-            <link>http://www.dailystar.co.uk/news/latest-news/502255/Prisoner-tunnels-through-cell-wall-to-get-high-on-stolen-drugs</link>
-            <guid isPermaLink="false">96ee69a5-a95f-4616-b133-c7237f3ae979</guid>
-            <pubDate>Sun, 20 Mar 2016 13:24:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
