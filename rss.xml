@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 23:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 23:42:13 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strychnine: the notorious but rare poison at the heart of a modern mystery]]></title>
+            <description><![CDATA[<article><h1>Strychnine: the notorious but rare poison at the heart of a modern mystery</h1><p>On 11 December 2015, a man bought a return train ticket to Manchester from Euston station, London. From Manchester he travelled on to Greenfield, Saddleworth and stopped at the Clarence pub, where he asked about how to get to the top of the hill.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac9ca1632ef8e6948f1a0836d293bc0ba33955d2.jpg"></article>]]></description>
+            <link>https://www.theguardian.com/science/blog/2016/mar/17/strychnine-the-notorious-but-rare-poison-at-the-heart-of-a-modern-mystery-saddleworth-moor</link>
+            <guid isPermaLink="false">fd72bb47-acf8-43e7-b594-8246cb75da4a</guid>
+            <pubDate>Sun, 20 Mar 2016 23:41:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Murlocs - Young Blindness]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.nytimes.com/2016/03/20/opinion/sunday/the-hidden-price-of-mindfulness-inc.html?_r=0</link>
             <guid isPermaLink="false">034a44bb-1a9b-41df-b806-15f5696a3032</guid>
             <pubDate>Sun, 20 Mar 2016 22:33:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full Measure: Drugs on the Border]]></title>
-            <description><![CDATA[<article><h1>Full Measure: Drugs on the Border</h1><p>Immigration is a big issue in this Presidential campaign and there's a harsh reality on the border that you may be surprised to hear exists in America. U.S. border towns are so influenced by the influx of illegal smugglers and drugs, that it has worked its way into the fabric of daily life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5360a259d12de0c2f90cb68c9f0fba091a0f134.jpg"></article>]]></description>
-            <link>http://uppermichiganssource.com/news/nation-world/full-measure-drugs-on-the-border</link>
-            <guid isPermaLink="false">cf5b277e-d73a-4070-8d90-2ee3821eb080</guid>
-            <pubDate>Sun, 20 Mar 2016 22:32:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
