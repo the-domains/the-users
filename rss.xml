@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 08:53:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 08:55:08 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can a Vaccine Cure Heroin Addiction?]]></title>
+            <description><![CDATA[<article><h1>Can a Vaccine Cure Heroin Addiction?</h1><p>SHOOTING UP Every time heroin addicts shoot up, they're taking their lives in their hands. That's not just because heroin itself is dangerous; increasingly, the drug is combined with fentanyl, a synthetic drug often used in conjunction with anesthesia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7959382fcb773db9bcc271a8ca58bb4bf034545.jpg"></article>]]></description>
+            <link>http://www.thedailybeast.com/articles/2016/03/19/can-a-vaccine-cure-heroin-addiction.html</link>
+            <guid isPermaLink="false">b7d10e7a-0bc2-431a-ad78-329311770ced</guid>
+            <pubDate>Sun, 20 Mar 2016 08:54:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What If Money Was No Object? - Alan Watts]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=d7M-68XbLe8</link>
             <guid isPermaLink="false">f4cd6bfb-0371-4a81-aade-a5507d8ac7f3</guid>
             <pubDate>Sat, 19 Mar 2016 22:48:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No more laughing gas? Tell us what you think of plans to ban legal highs | Sarah Marsh]]></title>
-            <description><![CDATA[<article><h1>No more laughing gas? Tell us what you think of plans to ban legal highs | Sarah Marsh</h1><p>Under a law expected to be passed in April, it will be illegal to possess with intent to supply everything from laughing gas to poppers. Critics say the bill is too broad, and could mean restricting any substance affecting a person's "mental or emotional state" except for alcohol and nicotine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b641308c33109336651c245f20ad122f4002ac7.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/commentisfree/2016/mar/15/laughing-gas-ban-legal-highs-law?CMP=Share_iOSApp_Other</link>
-            <guid isPermaLink="false">5b00b764-ed84-4a77-bbeb-6f7e74a474bd</guid>
-            <pubDate>Sat, 19 Mar 2016 22:35:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
