@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 09:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 09:29:21 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jake Bugg - Gimme The Love]]></title>
+            <description><![CDATA[<article><h1>Jake Bugg - Gimme The Love</h1><p>Gimme The Love taken from 'On My One' out June 17th. Pre-order now: Official Store: http://po.st/JBOMOWS iTunes: http://po.st/JBOMOiTunes Amazon: http://po.st/JBOMOAM Google Play: http://po.st/JBOMOGP Listen: Spotify: http://po.st/JBGTLy Apple Music: http://po.st/JBGTLAM www.jakebugg.com www.facebook.com/jakebugg www.twitter.com/jakebugg https://www.instagram.com/jakebugg/ Music video by Jake Bugg performing Gimme The Love.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10a73ec508bdf95256e14a20b227a58f97fdbbca.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=o70e7Nb8SVM</link>
+            <guid isPermaLink="false">a75e36a3-bda8-4d6f-a70d-326b600b2217</guid>
+            <pubDate>Sun, 20 Mar 2016 09:29:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Irish Are Emigrating in Search of Medical Marijuana]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.sciencedaily.com/releases/2016/03/160318090442.htm</link>
             <guid isPermaLink="false">12c1e296-60b6-4489-ba8f-a19ef0e6b42f</guid>
             <pubDate>Sun, 20 Mar 2016 07:49:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The surreal cityscapes of alternative comic artist Brian Chippendale]]></title>
-            <description><![CDATA[<article><h1>The surreal cityscapes of alternative comic artist Brian Chippendale</h1><p>One of the best gauges of a comic's quality is whether it makes you want to go out and draw comics. Like most of the stuff published by Drawn and Quarterly, Brian Chippendale's Puke Force has exactly that effect. Starting off raw as a serial comic, Puke Force is depraved - full of messy masturbators and chemical burns.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d66c7f90df499a2a3480427be9c40c3fd5b2fdf9.jpg"></article>]]></description>
-            <link>http://www.huckmagazine.com/art-and-culture/art-2/surreal-cityscapes-alternative-comic-artist-brian-chippendale/</link>
-            <guid isPermaLink="false">419b2ce1-6f92-41b2-b349-66003ec1efd1</guid>
-            <pubDate>Sat, 19 Mar 2016 23:34:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
