@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 08:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 08:18:08 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Premature autism deaths are 'hidden crisis' says charity]]></title>
+            <description><![CDATA[<article><h1>Premature autism deaths are 'hidden crisis' says charity</h1><p>Premature deaths among autistic people are at "shocking levels" according to a charity report which found that certain groups with the condition die 30 years younger than the general population. The striking figures amount to a "hidden crisis" in public health according to the charity, Autistica, which has called on the NHS to launch an immediate review into the scale and underlying causes of autism deaths in Britain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5861cbab1d37f00f97220f5cf205282dd570b58.jpg"></article>]]></description>
+            <link>https://www.theguardian.com/science/2016/mar/18/premature-autism-deaths-are-hidden-crisis-says-charity</link>
+            <guid isPermaLink="false">b6031afa-3160-4c64-9d25-11d14adfbc08</guid>
+            <pubDate>Sun, 20 Mar 2016 08:17:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Addicted B.C. inmates say denying treatment is unconstitutional]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.medicalnewstoday.com/articles/290461.php</link>
             <guid isPermaLink="false">b0a6592c-0d8b-455b-a52b-3d44decb6197</guid>
             <pubDate>Sat, 19 Mar 2016 20:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hyper Space Age]]></title>
-            <description><![CDATA[<article><h1>The Hyper Space Age</h1><p>July 11, 2011, Checkerboard Beach, Rarotonga, Cook Islands. I had joined the Black Pearl Eclipse adventure, arriving on the island with an oddly familiar crew of Aussie explorers who converged to witness a total solar eclipse. Fifty eclipse chasers occupied the Rarotonga Backpackers on a beach next to the Pacific Ocean.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99e5e121b1767330fd6945b15861854f7194275e.jpg"></article>]]></description>
-            <link>http://psypressuk.com/2016/02/14/the-hyper-space-age/</link>
-            <guid isPermaLink="false">7b6c341a-218b-48da-8cc3-4231e9764ddb</guid>
-            <pubDate>Sat, 19 Mar 2016 20:24:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
