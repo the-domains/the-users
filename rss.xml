@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 13:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 13:26:21 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Now There's Proof: Docs Who Take Company Cash Tend to Prescribe More Brand-Name Drugs]]></title>
-            <description><![CDATA[<article><h1>Now There's Proof: Docs Who Take Company Cash Tend to Prescribe More Brand-Name Drugs</h1><p>ProPublica is tracking the financial ties between doctors and medical companies. The Story So Far ProPublica is investigating the financial ties between the medical community and the drug and device industry. In October 2010, ProPublica compiled the list of payments that drug companies make to physicians and built a publicly searchable database so that patients could look up their doctors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6f6b51e45df18332d21dec42bfb3484a1a9106a.jpg"></article>]]></description>
-            <link>https://www.propublica.org/article/doctors-who-take-company-cash-tend-to-prescribe-more-brand-name-drugs</link>
-            <guid isPermaLink="false">9c358f1f-0296-4712-abb7-f2e930338e44</guid>
-            <pubDate>Sun, 20 Mar 2016 13:26:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fort Hope - That's The Way The River Flows]]></title>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=foE1mO2yM04</link>
             <guid isPermaLink="false">073a93fa-d97e-4250-9bd1-7b37c2b218b0</guid>
             <pubDate>Sun, 20 Mar 2016 13:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lib Dems say drugs imprisonment approach must change]]></title>
+            <description><![CDATA[<article><h1>Lib Dems say drugs imprisonment approach must change</h1><p>Nearly 1,000 people have been imprisoned for possession of drugs in the last five years rather than sent for treatment or education, Scottish Government figures show. An average of 200 people a year are imprisoned for possession but just 55 a year are given drug treatment and testing orders, figures obtained by the Liberal Democrats reveal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cb79758eaca3ff2070623c41106322a6f001b40.jpg"></article>]]></description>
+            <link>http://stv.tv/news/politics/1347123-lib-dems-say-drugs-imprisonment-approach-must-change/</link>
+            <guid isPermaLink="false">c05ec80a-a863-473b-ad12-90ac60de82b9</guid>
+            <pubDate>Sun, 20 Mar 2016 12:58:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
