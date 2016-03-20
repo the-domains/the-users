@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 09:58:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 11:56:09 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is your stuff stopping you? | Elizabeth Dulemba | TEDxUniversityofEdinburgh]]></title>
+            <description><![CDATA[<article><h1>Is your stuff stopping you? | Elizabeth Dulemba | TEDxUniversityofEdinburgh</h1><p>Award-winning author, illustrator, teacher and student Elizabeth Dulemba recently sold and gave away nearly everything she owned. And yet, she's no minimalist. She'll walk you through how she did it, and share how you too can open yourself to opportunities by evaluating your stuff - debunking the illusion of value we place on material possessions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c774125b564962b3b47c8d91b5f545ec7adab9c8.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=8Pb-hjqdjbY</link>
+            <guid isPermaLink="false">9fdab4c8-45fd-4221-809c-492d3a4c3525</guid>
+            <pubDate>Sun, 20 Mar 2016 11:55:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chart of the Week: U.S. Marijuana Industry's Economic Impact Could Hit $44B by 2020 - Marijuana Business Daily]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.npr.org/sections/health-shots/2016/03/19/470280334/a-family-engulfed-by-heroin-fights-to-keep-a-son-alive</link>
             <guid isPermaLink="false">1e38b153-9f13-4980-a3a5-492e3dd8f453</guid>
             <pubDate>Sun, 20 Mar 2016 08:17:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Premature autism deaths are 'hidden crisis' says charity]]></title>
-            <description><![CDATA[<article><h1>Premature autism deaths are 'hidden crisis' says charity</h1><p>Premature deaths among autistic people are at "shocking levels" according to a charity report which found that certain groups with the condition die 30 years younger than the general population. The striking figures amount to a "hidden crisis" in public health according to the charity, Autistica, which has called on the NHS to launch an immediate review into the scale and underlying causes of autism deaths in Britain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5861cbab1d37f00f97220f5cf205282dd570b58.jpg"></article>]]></description>
-            <link>https://www.theguardian.com/science/2016/mar/18/premature-autism-deaths-are-hidden-crisis-says-charity</link>
-            <guid isPermaLink="false">b6031afa-3160-4c64-9d25-11d14adfbc08</guid>
-            <pubDate>Sun, 20 Mar 2016 08:17:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
