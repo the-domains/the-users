@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 13:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 13:26:20 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fort Hope - That's The Way The River Flows]]></title>
-            <description><![CDATA[<article><h1>Fort Hope - That's The Way The River Flows</h1><p>Music video by Fort Hope performing That's The Way The River Flows. (C) 2016 Virgin EMI Records, a division of Universal Music Operations Limited http://vevo.ly/nb7s4f</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b94cfbf494116f674bdd777c2e43df037ce7cd66.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=U0I6kk-ojyo</link>
-            <guid isPermaLink="false">cf237519-611c-495f-93a8-17298008f436</guid>
-            <pubDate>Sun, 20 Mar 2016 13:25:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Warrant service leads to arrests for drugs, stolen gun]]></title>
@@ -75,6 +68,13 @@
             <link>http://stv.tv/news/politics/1347123-lib-dems-say-drugs-imprisonment-approach-must-change/</link>
             <guid isPermaLink="false">c05ec80a-a863-473b-ad12-90ac60de82b9</guid>
             <pubDate>Sun, 20 Mar 2016 12:58:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cannabis Industry Awaits Ruling in Long-Running Lawsuit Over Federal Preemption - Marijuana Business Daily]]></title>
+            <description><![CDATA[<article><h1>Cannabis Industry Awaits Ruling in Long-Running Lawsuit Over Federal Preemption - Marijuana Business Daily</h1><p>By Omar Sacirbey Arizona attorney Steven White is leaving the legal profession to concentrate on his marijuana business, but he's fighting perhaps the biggest battle of his career before moving on. White argued his last case on March 3 in a lawsuit pitting his client - plaintiff White Mountain Heath Center of Sun City, Arizona - against Maricopa County, which is trying to prevent the dispensary from opening.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ee28fe2c517dbb34c2805a2694152b6d64a858a.jpg"></article>]]></description>
+            <link>http://mjbizdaily.com/cannabis-industry-awaits-ruling-long-running-lawsuit-federal-preemption/</link>
+            <guid isPermaLink="false">f679da1d-807e-41cd-8bbc-0a3e48a10b5e</guid>
+            <pubDate>Sun, 20 Mar 2016 12:58:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
