@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 11:56:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 12:58:38 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six arrested after drugs raid on Warrington nightclub]]></title>
+            <description><![CDATA[<article><h1>Six arrested after drugs raid on Warrington nightclub</h1><p>Police have arrested six people following a drugs raid at a Warrington nightclub. Revellers were searched by a sniffer dog as they left Reef Bar early today. Specially-trained officers carried out a thorough examination of the club and recovered a large amount of illegal drugs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92b61be9fc0282f280932ab925964e12865b06e8.jpg"></article>]]></description>
+            <link>http://www.manchestereveningnews.co.uk/news/greater-manchester-news/six-arrested-after-drugs-raid-11067444</link>
+            <guid isPermaLink="false">ae0653e8-1203-4937-8181-f493f5b81840</guid>
+            <pubDate>Sun, 20 Mar 2016 12:57:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Is your stuff stopping you? | Elizabeth Dulemba | TEDxUniversityofEdinburgh]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.vice.com/read/a-eulogy-to-all-the-dirtbag-ways-we-smoked-weed-in-a-prohibition-era</link>
             <guid isPermaLink="false">8d254836-d3ce-4314-9d1f-2c15ea9356b3</guid>
             <pubDate>Sun, 20 Mar 2016 08:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Family Engulfed By Heroin Fights To Keep A Son Alive]]></title>
-            <description><![CDATA[<article><h1>A Family Engulfed By Heroin Fights To Keep A Son Alive</h1><p>Here's how I knew I liked Patti Trabosh. It goes back to the very first time I called her out of the blue to ask whether I might profile her family for a story on opioid addiction. The very first words out of her mouth were, "I'm pissed off!"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18900ef2befb9545c702f0592329acb860246e09.jpg"></article>]]></description>
-            <link>http://www.npr.org/sections/health-shots/2016/03/19/470280334/a-family-engulfed-by-heroin-fights-to-keep-a-son-alive</link>
-            <guid isPermaLink="false">1e38b153-9f13-4980-a3a5-492e3dd8f453</guid>
-            <pubDate>Sun, 20 Mar 2016 08:17:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
