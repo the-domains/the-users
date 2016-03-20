@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 23:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 23:41:23 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Murlocs - Young Blindness]]></title>
+            <description><![CDATA[<article><h1>The Murlocs - Young Blindness</h1><p>Young Blindness is out 18 March 2016 Directed and Produced by Dr D Foothead foothead.net @drdfoothead foothead@gmail.com Additional Animation by Milly Yencken yencken.camilla@gmail.com Morphing Shape Animation by John Drybone Treatment by Jason Galea http://www.jasongalea.com/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28d3f92c9f9873fa1148df853c6c6a335dcb92d6.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=F8AMa3uC7rw</link>
+            <guid isPermaLink="false">540505a6-b38f-48fe-bc7e-a9fb58d5ff96</guid>
+            <pubDate>Sun, 20 Mar 2016 23:41:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Sound of Community - Chapel of Sacred Mirrors]]></title>
@@ -68,13 +75,6 @@
             <link>http://uppermichiganssource.com/news/nation-world/full-measure-drugs-on-the-border</link>
             <guid isPermaLink="false">cf5b277e-d73a-4070-8d90-2ee3821eb080</guid>
             <pubDate>Sun, 20 Mar 2016 22:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GROWING OLD UNGRACEFULLY: Drugs, the Futile War]]></title>
-            <description><![CDATA[<article><h1>GROWING OLD UNGRACEFULLY: Drugs, the Futile War</h1><p>"Did we know we were lying about the drugs? Of course we did." - John Ehrlichman, Richard Nixon's Domestic Policy Adviser, interviewed in 1994 This is a follow-up to last week's column, in which I laid part of the blame for the country's ineffective, punitive and failed War on Drugs at the door of the late Nancy Reagan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2a69e46e2215a20fec7df3d9e49a5e2e69e2cbc.jpg"></article>]]></description>
-            <link>https://lostcoastoutpost.com/2016/mar/20/growing-old-ungracefully-drugs-futile-war/</link>
-            <guid isPermaLink="false">43ecaa07-f9f4-456f-8761-569a8c33c1e2</guid>
-            <pubDate>Sun, 20 Mar 2016 22:21:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
