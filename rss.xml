@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 13:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 13:14:17 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tom Bean dropoff box for unwanted drugs hits milestone]]></title>
+            <description><![CDATA[<article><h1>Tom Bean dropoff box for unwanted drugs hits milestone</h1><p>February is National Heart Health Awareness Month and Texoma Medical Center has scheduled its annual Heart Health event to raise awareness and provide education on living a healthy life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7f6c2adddf531dbb696b6c2a5c9065b8dd4f839.jpg"></article>]]></description>
+            <link>http://www.kxii.com/home/headlines/Tom-Bean-dropoff-box-for-unwanted-drugs-hits-milestone--372820401.html</link>
+            <guid isPermaLink="false">69ad0cac-3487-4ae5-8624-8504585cfe0a</guid>
+            <pubDate>Sun, 20 Mar 2016 13:13:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mike Posner - I Took A Pill In Ibiza (Seeb Remix) (Explicit)]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=o70e7Nb8SVM</link>
             <guid isPermaLink="false">a75e36a3-bda8-4d6f-a70d-326b600b2217</guid>
             <pubDate>Sun, 20 Mar 2016 09:29:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Irish Are Emigrating in Search of Medical Marijuana]]></title>
-            <description><![CDATA[<article><h1>Irish Are Emigrating in Search of Medical Marijuana</h1><p>Another Irish immigration to the U.S. is taking place, but this time it is not because of the potato famine or the economic deprivation it caused in Ireland for decades. This is the story of Irish people who regard themselves as the first "international medical cannabis refugees" seeking treatment in Colorado.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4efa71930dbd487951790a202811625479a3a4b.jpg"></article>]]></description>
-            <link>http://www.hightimes.com/read/irish-are-emigrating-search-medical-marijuana</link>
-            <guid isPermaLink="false">131bf410-412a-46bf-97aa-2275c51fe0e8</guid>
-            <pubDate>Sun, 20 Mar 2016 09:25:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
