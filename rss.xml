@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 23:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 23:32:13 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Sound of Community - Chapel of Sacred Mirrors]]></title>
+            <description><![CDATA[<article><h1>The Sound of Community - Chapel of Sacred Mirrors</h1><p>The Music Box was a public laboratory for musical architecture conceived of by the artist Swoon and New Orleans Airlift, built from the fallen remains of a blighted home. Purpose-built shacks and miniature houses were constructed from New Orleans' architectural details. Built into each structure were invented instruments created by local and international sound artists.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a39a541fb09da7670d4fb804944b7e329af582d.jpg"></article>]]></description>
+            <link>http://cosm.org/journal/the-sound-of-community/</link>
+            <guid isPermaLink="false">5c941195-d7bc-4f70-b1e5-52142ae514ec</guid>
+            <pubDate>Sun, 20 Mar 2016 23:31:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What It Was Like Selling Ecstasy in the 90s Rave Scene | VICE | United States]]></title>
@@ -68,13 +75,6 @@
             <link>https://lostcoastoutpost.com/2016/mar/20/growing-old-ungracefully-drugs-futile-war/</link>
             <guid isPermaLink="false">43ecaa07-f9f4-456f-8761-569a8c33c1e2</guid>
             <pubDate>Sun, 20 Mar 2016 22:21:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pissed off London students protested high rents last night]]></title>
-            <description><![CDATA[<article><h1>Pissed off London students protested high rents last night</h1><p>The rent strike at University College London continues. Students in London took to the streets last night to demand their university cut the cost of rent, as a rent strike at University College London continues. Living in London isn't cheap, and students in the UK are facing a cost of living crisis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51c407ae3776d10090a4914a456fdea2be70828d.jpg"></article>]]></description>
-            <link>http://www.huckmagazine.com/perspectives/reportage-2/london-students-pissed/</link>
-            <guid isPermaLink="false">810af019-462b-4c9c-8516-fdd1bd7f2378</guid>
-            <pubDate>Sun, 20 Mar 2016 22:13:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
