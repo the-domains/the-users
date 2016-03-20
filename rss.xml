@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 14:01:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 22:14:12 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pissed off London students protested high rents last night]]></title>
+            <description><![CDATA[<article><h1>Pissed off London students protested high rents last night</h1><p>The rent strike at University College London continues. Students in London took to the streets last night to demand their university cut the cost of rent, as a rent strike at University College London continues. Living in London isn't cheap, and students in the UK are facing a cost of living crisis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51c407ae3776d10090a4914a456fdea2be70828d.jpg"></article>]]></description>
+            <link>http://www.huckmagazine.com/perspectives/reportage-2/london-students-pissed/</link>
+            <guid isPermaLink="false">810af019-462b-4c9c-8516-fdd1bd7f2378</guid>
+            <pubDate>Sun, 20 Mar 2016 22:13:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[More than HALF of suspects stopped test positive for banned drugs]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.inquisitr.com/2903811/the-arrest-of-chumlee-of-pawn-stars-was-he-dealing-drugs/</link>
             <guid isPermaLink="false">8724ef25-78cf-40fe-84ce-2a2a224b89bc</guid>
             <pubDate>Sun, 20 Mar 2016 13:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harlesden man admits plot to smuggle £24m drugs hidden in carpets]]></title>
-            <description><![CDATA[<article><h1>Harlesden man admits plot to smuggle £24m drugs hidden in carpets</h1><p>Archant A Harlesden has admitted plotting to smuggle £24million worth of drugs into the country by hiding them in wrapped up carpets. Left to right: Jon Euesden, Martin Beckett, Stuart Openshaw and Lee Jones Marc Howell, 45, of Bramshill Road, was part of a five-strong gang behind the audacious scheme which involved cannabis being concealed in industrial tubes inside the carpets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19047c5fac90aca8afa7f8558f47de0d9a6c1479.jpg"></article>]]></description>
-            <link>http://www.kilburntimes.co.uk/news/crime-court/harlesden_man_admits_plot_to_smuggle_24m_drugs_hidden_in_carpets_1_4463554</link>
-            <guid isPermaLink="false">06ff0e87-007f-41e6-8357-a276729aff2f</guid>
-            <pubDate>Sun, 20 Mar 2016 13:15:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
