@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 23:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 07:49:41 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New effects of ketamine abuse uncovered: Extreme pain, bladder damage]]></title>
+            <description><![CDATA[<article><h1>New effects of ketamine abuse uncovered: Extreme pain, bladder damage</h1><p>Research has revealed how recreational ketamine abuse damages the bladder. In two studies, medical researchers show how ketamine present in urine causes damage to the epithelial lining of the bladder, allowing urine to penetrate into underlying tissues which causes inflammation and extreme pain.</p><img src="https://images.sciencedaily.com/2016/03/160317151301_1_180x120.jpg"></article>]]></description>
+            <link>https://www.sciencedaily.com/releases/2016/03/160318090442.htm</link>
+            <guid isPermaLink="false">12c1e296-60b6-4489-ba8f-a19ef0e6b42f</guid>
+            <pubDate>Sun, 20 Mar 2016 07:49:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The surreal cityscapes of alternative comic artist Brian Chippendale]]></title>
@@ -68,13 +75,6 @@
             <link>https://aeon.co/essays/when-did-the-self-help-movement-lose-its-ethical-seriousness</link>
             <guid isPermaLink="false">fa35d5a9-db13-4778-806c-37c34870f3f2</guid>
             <pubDate>Sat, 19 Mar 2016 20:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five Finger Death Punch - My Nemesis]]></title>
-            <description><![CDATA[<article><h1>Five Finger Death Punch - My Nemesis</h1><p>Five Finger Death Punch - My Nemesis "My Nemesis" is off Five Finger Death Punch's new album "GOT YOUR SIX" - AVAILABLE EVERYWHERE NOW!! Apple = http://smarturl.it/FFDP6_DLX Amazon = http://smarturl.it/FFDP6_AmzDLX Google = http://smarturl.it/FFDP6_GoogleDLX FFDP Store:http://fivefingerdeathpunch.shop.brav... Spotify = http://smarturl.it/FFDP6_Stream http://vevo.ly/Vo5tXH</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e31dd0e334d41aa5507ce1e59910a1761cda633.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=heDGwljdmvM</link>
-            <guid isPermaLink="false">8c8fdfae-5e3e-4c42-8942-f6051ef58c55</guid>
-            <pubDate>Sat, 19 Mar 2016 20:00:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
