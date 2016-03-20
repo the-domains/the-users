@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 22:56:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 23:08:15 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two drug mules spent six days in hospital expelling 90 swallowed cocaine pellets - Independent.ie]]></title>
+            <description><![CDATA[<article><h1>Two drug mules spent six days in hospital expelling 90 swallowed cocaine pellets - Independent.ie</h1><p>Two hapless drug mules from Limerick city spent six days in hospital expelling over 90 swallowed pellets of cocaine smuggled in from Spain. At Ennis Circuit Court, Det Sgt Kevin O'Hagan said that the two, Thomas Tully (44) and John Byrne (43) were initially detected by Ollie, the Customs drugs dog at Shannon airport after they came off a flight from Spain on April 21st 2014.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41850625af05f97d16d2ee1c53efc04c5e3174fb.jpg"></article>]]></description>
+            <link>http://www.independent.ie/irish-news/courts/two-drug-mules-spent-six-days-in-hospital-expelling-90-swallowed-cocaine-pellets-34554821.html</link>
+            <guid isPermaLink="false">584749fb-5666-422e-b6c7-ba57fd01824e</guid>
+            <pubDate>Sun, 20 Mar 2016 23:08:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Marijuana Use Increases Violent Behavior]]></title>
@@ -68,13 +75,6 @@
             <link>http://metro.co.uk/2016/03/20/father-says-he-sold-drugs-because-londons-too-expensive-to-live-in-5763400/</link>
             <guid isPermaLink="false">d855f28b-a6b0-4af4-a959-37947c9cccf4</guid>
             <pubDate>Sun, 20 Mar 2016 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Now There's Proof: Docs Who Take Company Cash Tend to Prescribe More Brand-Name Drugs]]></title>
-            <description><![CDATA[<article><h1>Now There's Proof: Docs Who Take Company Cash Tend to Prescribe More Brand-Name Drugs</h1><p>ProPublica is tracking the financial ties between doctors and medical companies. The Story So Far ProPublica is investigating the financial ties between the medical community and the drug and device industry. In October 2010, ProPublica compiled the list of payments that drug companies make to physicians and built a publicly searchable database so that patients could look up their doctors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6f6b51e45df18332d21dec42bfb3484a1a9106a.jpg"></article>]]></description>
-            <link>https://www.propublica.org/article/doctors-who-take-company-cash-tend-to-prescribe-more-brand-name-drugs</link>
-            <guid isPermaLink="false">9c358f1f-0296-4712-abb7-f2e930338e44</guid>
-            <pubDate>Sun, 20 Mar 2016 13:26:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
