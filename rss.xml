@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 13:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 14:01:08 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More than HALF of suspects stopped test positive for banned drugs]]></title>
+            <description><![CDATA[<article><h1>More than HALF of suspects stopped test positive for banned drugs</h1><p>Some 60% of suspects caught on cocaine, cannabis or other banned drugs Senior police and MPs stunned at the scale of UK's drug-driving epidemic Warnings it raises 'massive concern' about how many people drug-driving 'Drugalyser' devices introduced in March 2015 detect up to 17 illegal drugs More than half of drivers stopped on suspicion of drug-driving are failing roadside tests for illicit substances, the Daily Mail can reveal today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bd52721498fb052ac1162cf1e60587f7265543b.jpg"></article>]]></description>
+            <link>http://www.dailymail.co.uk/news/article-3499718/The-lethal-epidemic-drug-drivers-HALF-suspects-stopped-test-positive-cocaine-cannabis-banned-highs.html</link>
+            <guid isPermaLink="false">0bbaa5de-f204-45b3-b6ce-feaa9973f6ba</guid>
+            <pubDate>Sun, 20 Mar 2016 14:00:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Father says he sold drugs because London's too expensive to live in]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.kilburntimes.co.uk/news/crime-court/harlesden_man_admits_plot_to_smuggle_24m_drugs_hidden_in_carpets_1_4463554</link>
             <guid isPermaLink="false">06ff0e87-007f-41e6-8357-a276729aff2f</guid>
             <pubDate>Sun, 20 Mar 2016 13:15:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tom Bean dropoff box for unwanted drugs hits milestone]]></title>
-            <description><![CDATA[<article><h1>Tom Bean dropoff box for unwanted drugs hits milestone</h1><p>February is National Heart Health Awareness Month and Texoma Medical Center has scheduled its annual Heart Health event to raise awareness and provide education on living a healthy life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7f6c2adddf531dbb696b6c2a5c9065b8dd4f839.jpg"></article>]]></description>
-            <link>http://www.kxii.com/home/headlines/Tom-Bean-dropoff-box-for-unwanted-drugs-hits-milestone--372820401.html</link>
-            <guid isPermaLink="false">69ad0cac-3487-4ae5-8624-8504585cfe0a</guid>
-            <pubDate>Sun, 20 Mar 2016 13:13:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
