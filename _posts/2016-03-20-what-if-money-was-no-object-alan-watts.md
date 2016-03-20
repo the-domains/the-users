@@ -1,14 +1,10 @@
 ---
-author:
-  - name: 'Tragedy & Hope'
-    url: 'https://www.youtube.com/user/tradgedyandhope'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=khOaAHK7efc'
+inLanguage: en
+starred: false
 keywords:
   - watts
   - alan
@@ -21,7 +17,13 @@ keywords:
   - '853'
   - '828'
 description: 'A profound speech from the late Alan Watts. Alan Watts audio courtesy of alanwatts.org from the seminar: "Do You Do It, or Does It Do You?" available for download at http://www.alanwattscenter.org/#!services/cihc A remastered version of "What if money was no object". After our original video, which reached almost 2,000,000 views was taken down due to copyright.'
-inLanguage: en
+datePublished: '2016-03-20T08:53:13.552Z'
+dateModified: '2016-03-20T08:53:03.220Z'
+author:
+  - name: 'Tragedy & Hope'
+    url: 'https://www.youtube.com/user/tradgedyandhope'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=khOaAHK7efc&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=khOaAHK7efc'
 title: What If Money Was No Object? - Alan Watts
-datePublished: '2016-03-20T08:19:17.194Z'
-dateModified: '2016-03-19T20:37:08.796Z'
 sourcePath: _posts/2016-03-20-what-if-money-was-no-object-alan-watts.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
