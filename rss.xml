@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 22:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 22:22:14 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GROWING OLD UNGRACEFULLY: Drugs, the Futile War]]></title>
+            <description><![CDATA[<article><h1>GROWING OLD UNGRACEFULLY: Drugs, the Futile War</h1><p>"Did we know we were lying about the drugs? Of course we did." - John Ehrlichman, Richard Nixon's Domestic Policy Adviser, interviewed in 1994 This is a follow-up to last week's column, in which I laid part of the blame for the country's ineffective, punitive and failed War on Drugs at the door of the late Nancy Reagan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2a69e46e2215a20fec7df3d9e49a5e2e69e2cbc.jpg"></article>]]></description>
+            <link>https://lostcoastoutpost.com/2016/mar/20/growing-old-ungracefully-drugs-futile-war/</link>
+            <guid isPermaLink="false">43ecaa07-f9f4-456f-8761-569a8c33c1e2</guid>
+            <pubDate>Sun, 20 Mar 2016 22:21:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pissed off London students protested high rents last night]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.dailystar.co.uk/news/latest-news/502255/Prisoner-tunnels-through-cell-wall-to-get-high-on-stolen-drugs</link>
             <guid isPermaLink="false">96ee69a5-a95f-4616-b133-c7237f3ae979</guid>
             <pubDate>Sun, 20 Mar 2016 13:24:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Arrest of Chumlee Of 'Pawn Stars': Was He Dealing Drugs?]]></title>
-            <description><![CDATA[<article><h1>The Arrest of Chumlee Of 'Pawn Stars': Was He Dealing Drugs?</h1><p>Celebrity News When police raided the home of Chumlee of Pawn Stars fame, it was for sexual assault charges. We haven't heard of any evidence to support that charge, but other items were found in Chumlee's home that present the possibility that he was dealing drugs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd72312ed0acb8d4824d20556e396c5dd997b943.jpg"></article>]]></description>
-            <link>http://www.inquisitr.com/2903811/the-arrest-of-chumlee-of-pawn-stars-was-he-dealing-drugs/</link>
-            <guid isPermaLink="false">8724ef25-78cf-40fe-84ce-2a2a224b89bc</guid>
-            <pubDate>Sun, 20 Mar 2016 13:23:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
