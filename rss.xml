@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 23:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 23:14:42 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What It Was Like Selling Ecstasy in the 90s Rave Scene | VICE | United States]]></title>
+            <description><![CDATA[<article><h1>What It Was Like Selling Ecstasy in the 90s Rave Scene | VICE | United States</h1><p>Photo via Flickr user Tanjila Ahmed Anyone who's been to one of the corporate festivals typical of today's EDM industry making millions off of barely legal millennials might find it hard to imagine how these descended from the grubby warehouse raves of the 90s.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1208503f8b7554afd6154a338af6cad9c9bad462.jpg"></article>]]></description>
+            <link>http://www.vice.com/read/what-it-was-like-to-be-part-of-a-major-ecstasy-ring-in-the-us-in-the-90s</link>
+            <guid isPermaLink="false">932fc830-c9b0-4f67-be1c-b153c7960ef1</guid>
+            <pubDate>Sun, 20 Mar 2016 23:14:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No Opiates For The Masses? | RealClearPolitics]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.huckmagazine.com/perspectives/reportage-2/london-students-pissed/</link>
             <guid isPermaLink="false">810af019-462b-4c9c-8516-fdd1bd7f2378</guid>
             <pubDate>Sun, 20 Mar 2016 22:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More than HALF of suspects stopped test positive for banned drugs]]></title>
-            <description><![CDATA[<article><h1>More than HALF of suspects stopped test positive for banned drugs</h1><p>Some 60% of suspects caught on cocaine, cannabis or other banned drugs Senior police and MPs stunned at the scale of UK's drug-driving epidemic Warnings it raises 'massive concern' about how many people drug-driving 'Drugalyser' devices introduced in March 2015 detect up to 17 illegal drugs More than half of drivers stopped on suspicion of drug-driving are failing roadside tests for illicit substances, the Daily Mail can reveal today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bd52721498fb052ac1162cf1e60587f7265543b.jpg"></article>]]></description>
-            <link>http://www.dailymail.co.uk/news/article-3499718/The-lethal-epidemic-drug-drivers-HALF-suspects-stopped-test-positive-cocaine-cannabis-banned-highs.html</link>
-            <guid isPermaLink="false">0bbaa5de-f204-45b3-b6ce-feaa9973f6ba</guid>
-            <pubDate>Sun, 20 Mar 2016 14:00:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
