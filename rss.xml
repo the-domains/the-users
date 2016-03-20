@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 09:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 09:58:11 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chart of the Week: U.S. Marijuana Industry's Economic Impact Could Hit $44B by 2020 - Marijuana Business Daily]]></title>
+            <description><![CDATA[<article><h1>Chart of the Week: U.S. Marijuana Industry's Economic Impact Could Hit $44B by 2020 - Marijuana Business Daily</h1><p>By Marijuana Business Daily staff The U.S. cannabis industry will pump up to $44 billion annually into the country's economy by 2020 if current business and legalization trends continue, according to exclusive data released today in the 2016 Marijuana Business Factbook.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecea353b42f3f00e2fd37895f6e19b7cb3da9af9.png"></article>]]></description>
+            <link>http://mjbizdaily.com/exclusive-u-s-marijuana-industrys-economic-impact-hit-44b-2020/</link>
+            <guid isPermaLink="false">d8548dfc-357d-444c-840a-712569e067ea</guid>
+            <pubDate>Sun, 20 Mar 2016 09:58:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is the impact of candy-like flavoured e-cigarette adverts on children?]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.theguardian.com/science/2016/mar/18/premature-autism-deaths-are-hidden-crisis-says-charity</link>
             <guid isPermaLink="false">b6031afa-3160-4c64-9d25-11d14adfbc08</guid>
             <pubDate>Sun, 20 Mar 2016 08:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Addicted B.C. inmates say denying treatment is unconstitutional]]></title>
-            <description><![CDATA[<article><h1>Addicted B.C. inmates say denying treatment is unconstitutional</h1><p>Four heroin-addicted inmates in British Columbia jails have launched a charter challenge to gain opiate addiction treatment, arguing they deserve the same health care they could access in the community. The group contends that B.C. Corrections' policies unconstitutionally block them from being prescribed methadone or suboxone if they don't meet specific criteria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/826d5eb1ba409ddecd850a60d1f0fdb0690c536d.jpg"></article>]]></description>
-            <link>http://www.cbc.ca/news/canada/british-columbia/b-c-supremecourt-heroin-inmates-treatment-1.3499028</link>
-            <guid isPermaLink="false">a2f3f21c-97e7-4180-83da-8543c6a3d37e</guid>
-            <pubDate>Sun, 20 Mar 2016 08:17:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
