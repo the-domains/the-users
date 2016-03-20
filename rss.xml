@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 22:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 22:33:31 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hidden Price of Mindfulness Inc.]]></title>
+            <description><![CDATA[<article><h1>The Hidden Price of Mindfulness Inc.</h1><p>Increasingly, mindfulness is being packaged as a one-minute reprieve, an interlude between checking Instagram and starting the next episode of "House of Cards." One company proclaims it has found the "minimum effective dose" of meditation that will change your life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df569028dd9c36782edbd9fa836075e0c1626c0a.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/03/20/opinion/sunday/the-hidden-price-of-mindfulness-inc.html?_r=0</link>
+            <guid isPermaLink="false">034a44bb-1a9b-41df-b806-15f5696a3032</guid>
+            <pubDate>Sun, 20 Mar 2016 22:33:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Full Measure: Drugs on the Border]]></title>
@@ -68,13 +75,6 @@
             <link>http://lancasteronline.com/news/local/warrant-service-leads-to-arrests-for-drugs-stolen-gun/article_a8fe37f6-eddc-11e5-95d0-3f705adfd933.html</link>
             <guid isPermaLink="false">3512512b-7a96-4623-b2cb-839f2f3865fc</guid>
             <pubDate>Sun, 20 Mar 2016 13:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One universe, please! | Adrian Buzatu | TEDxBucharest]]></title>
-            <description><![CDATA[<article><h1>One universe, please! | Adrian Buzatu | TEDxBucharest</h1><p>How has the universe started and how do you create a Universe? Well, you need a recipe, just like in baking cakes! And while we have known the same ingredients for over 50 years, the discovery of the Higgs boson has changed the way we understand our universe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5a826fb4f90c20b81ebb40fd517af91751401fc.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=9zb5rtVaPK4</link>
-            <guid isPermaLink="false">91f27585-d47d-4f6d-8562-b629e69e118d</guid>
-            <pubDate>Sun, 20 Mar 2016 13:24:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
