@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 22:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 22:40:48 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plants grow from seeds, who the fuck knew?]]></title>
+            <description><![CDATA[<article><h1>Plants grow from seeds, who the fuck knew?</h1><p>Wiccy Magic Muscles massage bar, from Lush cosmetics contains aduki beans. And the ingredients must be hellish fresh, because Lush customers have found plants sprouting in their showers and from their plugholes after using the product.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bac2ed9834b0ebecea0304cc4b67ca18ebe98b4a.jpg"></article>]]></description>
+            <link>http://metro.co.uk/2016/03/18/plants-are-growing-in-lush-customers-showers-because-of-this-massage-bar-5761385/</link>
+            <guid isPermaLink="false">bfc06bdf-26b4-45ca-83bb-e4bad1c52d5c</guid>
+            <pubDate>Sun, 20 Mar 2016 22:40:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bat For Lashes - In God's House (Official Video)]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.propublica.org/article/doctors-who-take-company-cash-tend-to-prescribe-more-brand-name-drugs</link>
             <guid isPermaLink="false">9c358f1f-0296-4712-abb7-f2e930338e44</guid>
             <pubDate>Sun, 20 Mar 2016 13:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fort Hope - That's The Way The River Flows]]></title>
-            <description><![CDATA[<article><h1>Fort Hope - That's The Way The River Flows</h1><p>Music video by Fort Hope performing That's The Way The River Flows. (C) 2016 Virgin EMI Records, a division of Universal Music Operations Limited http://vevo.ly/nb7s4f</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b94cfbf494116f674bdd777c2e43df037ce7cd66.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=U0I6kk-ojyo</link>
-            <guid isPermaLink="false">cf237519-611c-495f-93a8-17298008f436</guid>
-            <pubDate>Sun, 20 Mar 2016 13:25:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
