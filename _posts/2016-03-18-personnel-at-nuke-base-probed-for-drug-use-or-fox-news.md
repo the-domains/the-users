@@ -17,8 +17,8 @@ keywords:
   - alleged
   - cocaine
 description: Defense officials say the Air Force is investigating about a dozen airmen at a nuclear missile base for alleged use of illegal drugs.
-datePublished: '2016-03-21T14:37:43.716Z'
-dateModified: '2016-03-18T20:16:28.679Z'
+datePublished: '2016-03-21T14:43:48.381Z'
+dateModified: '2016-03-21T14:37:51.169Z'
 author: []
 related: []
 app_links: []
