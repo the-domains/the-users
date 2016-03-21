@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://theinfluence.org'
   name: TheInfluence
-  favicon: 'http://theinfluence.org/wp-content/uploads/2016/01/favicon.png'
   domain: theinfluence.org
+  url: 'http://theinfluence.org'
+  favicon: 'http://theinfluence.org/wp-content/uploads/2016/01/favicon.png'
 keywords:
   - knausg
   - alcohol
@@ -25,13 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/'
 title: 'Karl Ove Knausgård: In America, an Alcoholic-In Scandinavia, Just a Genius'
-datePublished: '2016-03-19T12:30:49.150Z'
-dateModified: '2016-03-19T12:26:10.498Z'
+datePublished: '2016-03-21T19:20:13.971Z'
+dateModified: '2016-03-21T19:17:45.842Z'
 sourcePath: _posts/2016-03-19-karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
