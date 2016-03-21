@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 08:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 08:42:19 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The UN's Drug Meeting in Vienna: Russian Trolling, Jackie Chan, and Lots of Propaganda | VICE News]]></title>
+            <description><![CDATA[<article><h1>The UN's Drug Meeting in Vienna: Russian Trolling, Jackie Chan, and Lots of Propaganda | VICE News</h1><p>The countries with the world's deadliest drug laws have been on full display - literally - this week during the UN's annual narcotics meeting in Vienna. Several nations that routinely execute drug offenders have set up stalls in a large, circular hall that delegates convening for the UN Commission on Narcotic Drugs must pass through in order to attend the proceedings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a007c5269ba8827253cd5b3fc5b32ca0fe35808.jpg"></article>]]></description>
+            <link>https://news.vice.com/article/the-uns-drug-meeting-in-vienna-russian-trolling-jackie-chan-and-lots-of-propaganda</link>
+            <guid isPermaLink="false">652cd339-bc2b-4d87-902b-f18778de301f</guid>
+            <pubDate>Mon, 21 Mar 2016 08:42:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comparative and International Criminal Justice]]></title>
@@ -68,13 +75,6 @@
             <link>http://cosm.org/journal/the-sound-of-community/</link>
             <guid isPermaLink="false">5c941195-d7bc-4f70-b1e5-52142ae514ec</guid>
             <pubDate>Sun, 20 Mar 2016 23:31:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What It Was Like Selling Ecstasy in the 90s Rave Scene | VICE | United States]]></title>
-            <description><![CDATA[<article><h1>What It Was Like Selling Ecstasy in the 90s Rave Scene | VICE | United States</h1><p>Photo via Flickr user Tanjila Ahmed Anyone who's been to one of the corporate festivals typical of today's EDM industry making millions off of barely legal millennials might find it hard to imagine how these descended from the grubby warehouse raves of the 90s.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1208503f8b7554afd6154a338af6cad9c9bad462.jpg"></article>]]></description>
-            <link>http://www.vice.com/read/what-it-was-like-to-be-part-of-a-major-ecstasy-ring-in-the-us-in-the-90s</link>
-            <guid isPermaLink="false">932fc830-c9b0-4f67-be1c-b153c7960ef1</guid>
-            <pubDate>Sun, 20 Mar 2016 23:14:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
