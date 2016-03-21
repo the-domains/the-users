@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.foxnews.com/politics/2016/03/18/personnel-at-nuke-base-probed-for-drug-use.html'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - airmen
   - investigation
@@ -17,8 +17,8 @@ keywords:
   - alleged
   - cocaine
 description: Defense officials say the Air Force is investigating about a dozen airmen at a nuclear missile base for alleged use of illegal drugs.
-datePublished: '2016-03-18T19:42:07.727Z'
-dateModified: '2016-03-18T19:28:25.804Z'
+datePublished: '2016-03-21T14:37:43.716Z'
+dateModified: '2016-03-18T20:16:28.679Z'
 author: []
 related: []
 app_links: []
