@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 17:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 17:44:06 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rising opioid prescriptions following low-risk surgeries]]></title>
+            <description><![CDATA[<article><h1>Rising opioid prescriptions following low-risk surgeries</h1><p>Physicians are prescribing more opioid painkillers than ever before to patients undergoing common surgeries, according to new research. Opioid abuse and addiction is a growing concern in the U.S. Approximately 2.1 million Americans suffer from substance use disorders related to prescription opioid pain relievers and an estimated 467,000 Americans are addicted to heroin, with increasing recognition of the strong relationship between opioid use and heroin abuse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c1d835eb83930a86893a43978cc5673eccfbdae.jpg"></article>]]></description>
+            <link>https://www.sciencedaily.com/releases/2016/03/160318181658.htm</link>
+            <guid isPermaLink="false">beee4358-7860-4b76-bc02-373ac2a6e2f4</guid>
+            <pubDate>Mon, 21 Mar 2016 17:43:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heroin antidote can help save lives]]></title>
