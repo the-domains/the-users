@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 18:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 19:14:10 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A New Agenda for the FDA]]></title>
+            <description><![CDATA[<article><h1>A New Agenda for the FDA</h1><p>The Senate last month confirmed Dr. Robert Califf to run one of the world's most influential health agencies, the U.S. Food and Drug Administration. The 89-4 vote followed a delay by a handful of lawmakers who had turned President Obama's nomination into a proxy fight over the FDA's willingness to approve opioid pain-killers, despite a growing problem with addiction nationwide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37e5e5e9ade0b280cc45e451b97a45ea1c44b6cf.jpg"></article>]]></description>
+            <link>http://www.usnews.com/news/the-report/articles/2016-03-21/fda-commissioner-robert-califf-talks-opioids-cancer-precision-medicine-drug-prices</link>
+            <guid isPermaLink="false">b1fc8153-81e5-4ef2-a169-c8ebb129fbee</guid>
+            <pubDate>Mon, 21 Mar 2016 19:14:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carbon emission release rate 'unprecedented' in past 66m years]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.news-gazette.com/news/local/2016-03-20/heroin-antidote-can-help-save-lives.html</link>
             <guid isPermaLink="false">bd860770-5be7-4042-a555-a6d598eaed05</guid>
             <pubDate>Mon, 21 Mar 2016 17:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ibogaine to Cure Addiction? A Hot Take on Mexico's Global Ibo Conference]]></title>
-            <description><![CDATA[<article><h1>Ibogaine to Cure Addiction? A Hot Take on Mexico's Global Ibo Conference</h1><p>I am sitting in the sun by the pool at my small hotel in Tepoztlan, Mexico, just after lunch, recovering from the Global Ibogaine Conference, which took place from March 14-16.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ab3ec1522967e9c5de7219bcfec6dcf0d2092cc.jpg"></article>]]></description>
-            <link>http://theinfluence.org/ibogaine-to-cure-addiction-a-hot-take-on-mexicos-global-ibo-conference/</link>
-            <guid isPermaLink="false">08d56a77-1ed5-412b-ac7d-cef38240b9b0</guid>
-            <pubDate>Mon, 21 Mar 2016 15:26:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
