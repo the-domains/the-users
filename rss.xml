@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 17:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 17:57:58 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Acid Drops by Andy Roberts]]></title>
+            <description><![CDATA[<article><h1>Acid Drops by Andy Roberts</h1><p>Acid Drops is a collection of essays, interviews, and creative pieces about psychedelic culture by renowned historian Andy Roberts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5d6dd37222cbfa64d01001fb1d26a25cdc36036.jpg"></article>]]></description>
+            <link>https://psychedelicpress.co.uk/products/acid-drops-by-andy-roberts</link>
+            <guid isPermaLink="false">ab7e1a1f-41fd-4b31-967a-c7e29b684645</guid>
+            <pubDate>Mon, 21 Mar 2016 17:57:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How British 'cafe culture' drinks revolution ended in failure]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/global-development/2016/mar/21/living-in-hell-indonesia-mentally-ill-people-chained-confined-human-rights-watch-report</link>
             <guid isPermaLink="false">59c6e263-8403-4880-b649-095703ed816c</guid>
             <pubDate>Mon, 21 Mar 2016 14:27:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[King Gizzard & The Lizard Wizard - Gamma Knife]]></title>
-            <description><![CDATA[<article><h1>King Gizzard & The Lizard Wizard - Gamma Knife</h1><p>Pre-order NONAGON INFINITY - Out April 29th worldwide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a8f45590664d34d073f75161bf509f54288307f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=nC7ii3Ir-no</link>
-            <guid isPermaLink="false">804cfe67-4cdb-4c32-88d5-31af07480e10</guid>
-            <pubDate>Mon, 21 Mar 2016 09:08:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
