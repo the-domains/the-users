@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 08:37:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 08:41:41 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comparative and International Criminal Justice]]></title>
+            <description><![CDATA[<article><h1>Comparative and International Criminal Justice</h1><p>Inaugural Symposium: Prison, Drugs and Policing This symposium coincides with the launch of a faculty research group in Comparative and International Criminal Justice. It brings together a number of UK and Brazil based academics to present on issues of international criminal justice relating to the regulation of the trade in drugs, and comparative criminal justice in relation to Brazil.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6035d9aad0d23144f7d7efbba350c75202fc3a.png"></article>]]></description>
+            <link>https://www.eventbrite.co.uk/e/comparative-and-international-criminal-justice-tickets-21835689134?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=estw&amp;utm-source=tw&amp;utm-term=listing</link>
+            <guid isPermaLink="false">561babeb-c522-4bc9-96ff-395e8593a793</guid>
+            <pubDate>Mon, 21 Mar 2016 08:41:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Undercover: Street dealers show failure of Dutch drugs policy]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.vice.com/read/what-it-was-like-to-be-part-of-a-major-ecstasy-ring-in-the-us-in-the-90s</link>
             <guid isPermaLink="false">932fc830-c9b0-4f67-be1c-b153c7960ef1</guid>
             <pubDate>Sun, 20 Mar 2016 23:14:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No Opiates For The Masses? | RealClearPolitics]]></title>
-            <description><![CDATA[<article><h1>No Opiates For The Masses? | RealClearPolitics</h1><p>There is no problem so bad that government-imposed remedies cannot make it worse, spawn new problems or both. A new confirmation of that phenomenon may be on the way, thanks to new recommendations from an agency intent on curbing the use of opiates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec1c6d7b15ec616f5c53256e498d89b3d3dfb2db.jpg"></article>]]></description>
-            <link>http://www.realclearpolitics.com/articles/2016/03/20/no_opiates_for_the_masses_130034.html</link>
-            <guid isPermaLink="false">b61ba17b-38b5-4636-b696-dc78c7f9022a</guid>
-            <pubDate>Sun, 20 Mar 2016 23:08:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
