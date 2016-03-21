@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 17:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 17:45:59 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How British 'cafe culture' drinks revolution ended in failure]]></title>
+            <description><![CDATA[<article><h1>How British 'cafe culture' drinks revolution ended in failure</h1><p>The extension of licensing hours in England and Wales has triggered a rise in binge drinking and an associated increase in mental and physical health problems, according to new research. A study conducted by economists at Lancaster University confirms that, while the relaxation of drinking hours has had little impact on the habits of normal drinkers, it has resulted in an increase in the number of people drinking heavily.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d2cf933be5ec9f944d4416d66174c46b545b24a.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/society/2016/mar/20/opening-hours-binge-drinking?CMP=fb_gu</link>
+            <guid isPermaLink="false">cc9d7aa8-de79-4762-a2fb-7f4e77943508</guid>
+            <pubDate>Mon, 21 Mar 2016 17:45:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rising opioid prescriptions following low-risk surgeries]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=nC7ii3Ir-no</link>
             <guid isPermaLink="false">804cfe67-4cdb-4c32-88d5-31af07480e10</guid>
             <pubDate>Mon, 21 Mar 2016 09:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The UN's Drug Meeting in Vienna: Russian Trolling, Jackie Chan, and Lots of Propaganda | VICE News]]></title>
-            <description><![CDATA[<article><h1>The UN's Drug Meeting in Vienna: Russian Trolling, Jackie Chan, and Lots of Propaganda | VICE News</h1><p>The countries with the world's deadliest drug laws have been on full display - literally - this week during the UN's annual narcotics meeting in Vienna. Several nations that routinely execute drug offenders have set up stalls in a large, circular hall that delegates convening for the UN Commission on Narcotic Drugs must pass through in order to attend the proceedings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a007c5269ba8827253cd5b3fc5b32ca0fe35808.jpg"></article>]]></description>
-            <link>https://news.vice.com/article/the-uns-drug-meeting-in-vienna-russian-trolling-jackie-chan-and-lots-of-propaganda</link>
-            <guid isPermaLink="false">652cd339-bc2b-4d87-902b-f18778de301f</guid>
-            <pubDate>Mon, 21 Mar 2016 08:42:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
