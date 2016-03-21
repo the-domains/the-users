@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 14:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 14:38:24 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drugs, Guns, Cash Seized in Drug Bust]]></title>
+            <description><![CDATA[<article><h1>Drugs, Guns, Cash Seized in Drug Bust</h1><p>KINGSTON - More than $50,000 worth of marijuana has landed five people behind bars in Luzerne County. Kingston officers seized 12 pounds of pot, five guns, and over $44,000 in cash in Thursday's bust. Police charged Matthew Klinges, 21, of Kingston; Matthew Mackiewicz, 18, of Forty Fort; and Jordan Stravolo, 22, of Kingston.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad4840dcf1af0c0552e07b9160c8f109a2e6093c.jpg"></article>]]></description>
+            <link>http://wnep.com/2016/03/18/drugs-guns-cash-seized-in-drug-bust/</link>
+            <guid isPermaLink="false">b270c350-ec8c-4259-8b55-643bb812ac87</guid>
+            <pubDate>Mon, 21 Mar 2016 14:38:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Personnel at nuke base probed for drug use | Fox News]]></title>
@@ -68,13 +75,6 @@
             <link>https://news.vice.com/article/the-uns-drug-meeting-in-vienna-russian-trolling-jackie-chan-and-lots-of-propaganda</link>
             <guid isPermaLink="false">652cd339-bc2b-4d87-902b-f18778de301f</guid>
             <pubDate>Mon, 21 Mar 2016 08:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comparative and International Criminal Justice]]></title>
-            <description><![CDATA[<article><h1>Comparative and International Criminal Justice</h1><p>Inaugural Symposium: Prison, Drugs and Policing This symposium coincides with the launch of a faculty research group in Comparative and International Criminal Justice. It brings together a number of UK and Brazil based academics to present on issues of international criminal justice relating to the regulation of the trade in drugs, and comparative criminal justice in relation to Brazil.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6035d9aad0d23144f7d7efbba350c75202fc3a.png"></article>]]></description>
-            <link>https://www.eventbrite.co.uk/e/comparative-and-international-criminal-justice-tickets-21835689134?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=estw&amp;utm-source=tw&amp;utm-term=listing</link>
-            <guid isPermaLink="false">561babeb-c522-4bc9-96ff-395e8593a793</guid>
-            <pubDate>Mon, 21 Mar 2016 08:41:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
