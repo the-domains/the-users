@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 23:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 08:13:40 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No longer novel: Addaction NPS conference 15th March 2016]]></title>
+            <description><![CDATA[<article><h1>No longer novel: Addaction NPS conference 15th March 2016</h1><p>Speakers rattle the cage of the Psychoactive Substances Act (PSA) By Harry Shapiro The conference was timed for the run-up to the enactment of the PSA originally due to come into force on 6 th April. However according to a notice sent round to Constabularies, this is now slated for "the Spring" with 21 days notice of the Act coming into force.</p><img src="http://i2.wp.com/www.drugwise.org.uk/wp-content/uploads/2015/12/DrugWiselogoLarge1.png?fit=400%2C400"></article>]]></description>
+            <link>http://www.drugwise.org.uk/no-longer-novel-addaction-nps-conference-15th-march-2016/</link>
+            <guid isPermaLink="false">8e3c4cea-904d-4c14-ab0f-351c8bf26e30</guid>
+            <pubDate>Mon, 21 Mar 2016 08:12:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strychnine: the notorious but rare poison at the heart of a modern mystery]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=XBjuJbvqm_Y</link>
             <guid isPermaLink="false">9e771a02-b11a-4b08-82a1-faa76cac469a</guid>
             <pubDate>Sun, 20 Mar 2016 22:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Hidden Price of Mindfulness Inc.]]></title>
-            <description><![CDATA[<article><h1>The Hidden Price of Mindfulness Inc.</h1><p>Increasingly, mindfulness is being packaged as a one-minute reprieve, an interlude between checking Instagram and starting the next episode of "House of Cards." One company proclaims it has found the "minimum effective dose" of meditation that will change your life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df569028dd9c36782edbd9fa836075e0c1626c0a.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2016/03/20/opinion/sunday/the-hidden-price-of-mindfulness-inc.html?_r=0</link>
-            <guid isPermaLink="false">034a44bb-1a9b-41df-b806-15f5696a3032</guid>
-            <pubDate>Sun, 20 Mar 2016 22:33:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
