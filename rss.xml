@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 09:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 12:20:15 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Past News</p>]]></description>
+            <link>http://the-users.com/a374a922-c9b9-4343-8b7e-e0cb42212228/index.html</link>
+            <guid isPermaLink="false">a374a922-c9b9-4343-8b7e-e0cb42212228</guid>
+            <pubDate>Mon, 21 Mar 2016 12:19:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Living in hell': mentally ill people in Indonesia chained and confined]]></title>
+            <description><![CDATA[<article><h1>'Living in hell': mentally ill people in Indonesia chained and confined</h1><p>Almost 40 years after Indonesia banned the practice of shackling people with mental health conditions, nearly 19,000 are still living in chains, or are locked up in institutions where they are vulnerable to abuse, according to a new report from Human Rights Watch (HRW).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe263c4547092fc4e3d0d89980bfe38d21a0a051.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/global-development/2016/mar/21/living-in-hell-indonesia-mentally-ill-people-chained-confined-human-rights-watch-report</link>
+            <guid isPermaLink="false">59c6e263-8403-4880-b649-095703ed816c</guid>
+            <pubDate>Mon, 21 Mar 2016 12:09:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[King Gizzard & The Lizard Wizard - Gamma Knife]]></title>
@@ -61,20 +75,6 @@
             <link>http://www.drugwise.org.uk/no-longer-novel-addaction-nps-conference-15th-march-2016/</link>
             <guid isPermaLink="false">8e3c4cea-904d-4c14-ab0f-351c8bf26e30</guid>
             <pubDate>Mon, 21 Mar 2016 08:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strychnine: the notorious but rare poison at the heart of a modern mystery]]></title>
-            <description><![CDATA[<article><h1>Strychnine: the notorious but rare poison at the heart of a modern mystery</h1><p>On 11 December 2015, a man bought a return train ticket to Manchester from Euston station, London. From Manchester he travelled on to Greenfield, Saddleworth and stopped at the Clarence pub, where he asked about how to get to the top of the hill.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac9ca1632ef8e6948f1a0836d293bc0ba33955d2.jpg"></article>]]></description>
-            <link>https://www.theguardian.com/science/blog/2016/mar/17/strychnine-the-notorious-but-rare-poison-at-the-heart-of-a-modern-mystery-saddleworth-moor</link>
-            <guid isPermaLink="false">fd72bb47-acf8-43e7-b594-8246cb75da4a</guid>
-            <pubDate>Sun, 20 Mar 2016 23:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Murlocs - Young Blindness]]></title>
-            <description><![CDATA[<article><h1>The Murlocs - Young Blindness</h1><p>Young Blindness is out 18 March 2016 Directed and Produced by Dr D Foothead foothead.net @drdfoothead foothead@gmail.com Additional Animation by Milly Yencken yencken.camilla@gmail.com Morphing Shape Animation by John Drybone Treatment by Jason Galea http://www.jasongalea.com/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28d3f92c9f9873fa1148df853c6c6a335dcb92d6.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=F8AMa3uC7rw</link>
-            <guid isPermaLink="false">540505a6-b38f-48fe-bc7e-a9fb58d5ff96</guid>
-            <pubDate>Sun, 20 Mar 2016 23:41:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
