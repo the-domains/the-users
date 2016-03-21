@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Damian Carrington
-    url: 'http://www.theguardian.com/profile/damiancarrington'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.theguardian.com'
-  name: the Guardian
-  favicon: 'https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico'
-  domain: www.theguardian.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.theguardian.com/environment/2016/mar/21/carbon-emission-release-rate-unprecedented-in-past-66m-years'
+inLanguage: en
+starred: false
 keywords:
   - carbon
   - petm
@@ -21,7 +17,13 @@ keywords:
   - emissions
   - climate
 description: 'Humanity is pumping climate-warming carbon dioxide into the atmosphere 10 times faster than at any point in the past 66m years, according to new research. The revelation shows the world has entered "uncharted territory" and that the consequences for life on land and in the oceans may be more severe than at any time since the extinction of the dinosaurs.'
-inLanguage: en
+datePublished: '2016-03-21T18:55:14.695Z'
+dateModified: '2016-03-21T18:52:47.355Z'
+author:
+  - name: Damian Carrington
+    url: 'http://www.theguardian.com/profile/damiancarrington'
+    avatar: {}
+related: []
 app_links:
   - url: 'gnmguardian://environment/2016/mar/21/carbon-emission-release-rate-unprecedented-in-past-66m-years?contenttype=Article&source=applinks'
     type: ios
@@ -47,15 +49,15 @@ app_links:
     package: '409128287'
     namespace: google
     type: ios
-isBasedOnUrl: 'http://www.theguardian.com/environment/2016/mar/21/carbon-emission-release-rate-unprecedented-in-past-66m-years'
 title: "Carbon emission release rate 'unprecedented' in past 66m years"
-datePublished: '2016-03-21T18:52:39.817Z'
-dateModified: '2016-03-21T18:51:32.454Z'
 sourcePath: _posts/2016-03-21-carbon-emission-release-rate-unprecedented-in-past-66m-yea.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: the Guardian
+  domain: www.theguardian.com
+  url: 'http://www.theguardian.com'
+  favicon: 'https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
