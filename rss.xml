@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 14:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 14:37:35 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Effects of local drug crisis evident in Kamsack, Sask.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supreme Court rejects challenge to Colorado marijuana law from other states]]></title>
+            <description><![CDATA[<article><h1>Supreme Court rejects challenge to Colorado marijuana law from other states</h1><p>The Supreme Court on Monday rejected a conservative challenge to the marijuana legalization laws adopted in Colorado and elsewhere that permit adults to buy, sell or use one ounce of the drug. By a 6-2 vote, the justices turned away a lawsuit brought by Nebraska and Oklahoma, whose state attorneys...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1f3d1bf5890bbf32b7d4e65b871f020fe0f18f6.jpg"></article>]]></description>
+            <link>http://www.latimes.com/nation/la-na-court-marijuana-states-20160321-story.html</link>
+            <guid isPermaLink="false">4ee0e3e2-7b48-4eec-b451-e413004673b2</guid>
+            <pubDate>Mon, 21 Mar 2016 14:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=HqDN9Yqavno</link>
             <guid isPermaLink="false">77a30d09-1944-401e-89fe-eced608aa913</guid>
             <pubDate>Mon, 21 Mar 2016 08:37:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mexican state supplying half of America's heroin may soon legalise opium farming for medical use - Firstpost]]></title>
-            <description><![CDATA[<article><h1>Mexican state supplying half of America's heroin may soon legalise opium farming for medical use - Firstpost</h1><p>Mexico City: The governor of one of Mexico's most violent states is making waves by proposing that impoverished farmers be allowed to grow opium poppies for legal medical use. Guerrero state is among Mexico's poorest, and many remote mountain communities already grow small plots of poppies, which are bought by drug cartels that have fought violent turf battles throughout the Pacific coast state.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dacaf1b8ac67a14acc84b1529fecc88c8933d755.jpg"></article>]]></description>
-            <link>http://www.firstpost.com/world/mexican-state-supplying-half-of-americas-heroin-may-soon-legalise-opium-farming-for-medical-use-2682678.html</link>
-            <guid isPermaLink="false">df122cab-f8dc-4c42-8e92-e802ae7b5cb7</guid>
-            <pubDate>Mon, 21 Mar 2016 08:37:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
