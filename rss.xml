@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 20:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 20:06:34 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[EL VY - Sad Case / Happiness, Missouri (Lyric Video)]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.cbc.ca/news/canada/saskatchewan/drug-crisis-in-kamsack-saskatchewan-area-1.3495654</link>
             <guid isPermaLink="false">aa7de87e-8021-47a8-900c-fa197544fb5c</guid>
             <pubDate>Fri, 18 Mar 2016 23:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autism spectrum has no clear cut-off point, research suggests]]></title>
+            <description><![CDATA[<article><h1>Autism spectrum has no clear cut-off point, research suggests</h1><p>The same genes involved in predisposing people to autism appear to influence social skills in the wider population, suggesting that the autism spectrum has no clear cut-off point, scientists have discovered. Researchers have previously shown that autism is linked not just to one or two powerful genes, but to the combined effect of many small genetic changes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0db571446f3b8d96fa8f1556e3adc7c97a25c10d.jpg"></article>]]></description>
+            <link>https://www.theguardian.com/science/2016/mar/21/autism-spectrum-has-no-clear-cut-off-point-research-suggests-nature-genetics</link>
+            <guid isPermaLink="false">025935bd-3914-4732-b132-7148ee29839b</guid>
+            <pubDate>Mon, 21 Mar 2016 20:06:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jackie Chan Wants Drug Offenders to Be Executed?]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=Gp2EO0dtmK8</link>
             <guid isPermaLink="false">c92e1040-4873-4f33-8fd2-96860046fe4b</guid>
             <pubDate>Mon, 21 Mar 2016 18:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drug control reformers must remember our commitment to human rights]]></title>
-            <description><![CDATA[<article><h1>Drug control reformers must remember our commitment to human rights</h1><p>In certain areas of Colombia, a paradox exists. Many drug users have been killed by 'social cleansing' armed groups, funded by drug trafficking and supported by members of the military forces. These victims dramatically reflect two of the critical mistakes of current drug policies: the stigmatisation of drug users, and the strengthening of criminal organisations that control the illegal drug markets and make corrupt alliances with authorities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62a0f24787f9886692a5ba188f732a3448d7d7ad.jpg"></article>]]></description>
-            <link>https://www.opendemocracy.net/drugpolicy/sergio-chaparro-hern-ndez-carlos-juliano-simoes-ferreira/drug-control-reformers-must-remember-our-co</link>
-            <guid isPermaLink="false">49ed07db-b71d-4190-b58f-2b37c6d849fb</guid>
-            <pubDate>Mon, 21 Mar 2016 18:19:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
