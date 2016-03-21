@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://wnep.com/2016/03/18/drugs-guns-cash-seized-in-drug-bust/'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - kingston
   - wilkes-barre
@@ -17,8 +17,8 @@ keywords:
   - klinges
   - ring
 description: "KINGSTON - More than $50,000 worth of marijuana has landed five people behind bars in Luzerne County. Kingston officers seized 12 pounds of pot, five guns, and over $44,000 in cash in Thursday's bust. Police charged Matthew Klinges, 21, of Kingston; Matthew Mackiewicz, 18, of Forty Fort; and Jordan Stravolo, 22, of Kingston."
-datePublished: '2016-03-18T19:41:57.243Z'
-dateModified: '2016-03-18T19:28:54.795Z'
+datePublished: '2016-03-21T14:38:12.518Z'
+dateModified: '2016-03-18T20:16:30.130Z'
 author:
   - name: Dan Ratchford
     url: 'http://wnep.com/author/wnepdanratchford/'
