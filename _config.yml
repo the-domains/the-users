@@ -21,7 +21,7 @@ color:
     - '#260004'
     - '#00c380'
     - '#de873c'
-  brandStrength: 1
+  brandStrength: 0.875
   lightness: 0
   saturation: 1
   rhythmicContrast: 1
