@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 11:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 11:37:47 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The HIGH TIMES Interview: Flatbush Zombies]]></title>
+            <description><![CDATA[<article><h1>The HIGH TIMES Interview: Flatbush Zombies</h1><p>HIGH TIMES caught up with the rap group Flatbush Zombies to discuss their musical influences, favorite strains and the new album 3001: A Laced Odyssey. For more Flatbush Zombies coverage, check out the July 2016 issue of HIGH TIMES.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d56ace2af3054ab1bbe65d6822a65d93b6ab58bb.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=q8b1RHJksws</link>
+            <guid isPermaLink="false">372cbf6b-41f3-4f59-9224-bb454db969c8</guid>
+            <pubDate>Tue, 22 Mar 2016 11:36:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Highly Suspect - Serotonia (Official Music Video)]]></title>
@@ -68,13 +75,6 @@
             <link>https://boingboing.net/2016/03/22/nixon-started-the-war-on-drugs.html</link>
             <guid isPermaLink="false">59aca2f9-4a95-4e91-9d75-a9261105be6b</guid>
             <pubDate>Tue, 22 Mar 2016 11:09:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mogwai // Ether (Official Video)]]></title>
-            <description><![CDATA[<article><h1>Mogwai // Ether (Official Video)</h1><p>Taken from the upcoming album 'Atomic', out 1st April on Rock Action Records (Temporary Residence in North America) Pre order on CD / LP / digital download - http://mogwai.co.uk Stream 'Ether' on Spotify - https://open.spotify.com/track/2mfwBdDf28c24qqKAABkUK</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35cdcc843bcdf82c784daa13bafe77af9d76bd0e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=T1n0C-qrHJw</link>
-            <guid isPermaLink="false">e84640af-22fc-45e6-b8ac-6824449d6429</guid>
-            <pubDate>Tue, 22 Mar 2016 10:32:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
