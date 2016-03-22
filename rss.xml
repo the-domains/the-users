@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 09:42:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 09:48:48 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mitski - Your Best American Girl]]></title>
+            <description><![CDATA[<article><h1>Mitski - Your Best American Girl</h1><p>"Your Best American Girl" off of 'Puberty 2' by Mitski, out June 17th, 2016 on Dead Oceans Dead Oceans: http://smarturl.it/mitski iTunes: http://smarturl.it/mitski_it Amazon: http://smarturl.it/mitski_amz Support your local independent record store: http://smarturl.it/mitski_ind</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5452c6f78b4685b9da69c8a510c0e0152102b1ae.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=BjGB9hc5huk</link>
+            <guid isPermaLink="false">30ae4c14-4199-49a1-821f-d442a9c0dda2</guid>
+            <pubDate>Tue, 22 Mar 2016 09:48:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5 Groups Who Love Their 'Uppers,' AKA Speed, and You Might Be Surprised by Who They Are]]></title>
@@ -68,13 +75,6 @@
             <link>http://cosm.org/blog/visionary-permaculture-3/</link>
             <guid isPermaLink="false">ee2bd423-2897-4555-82d2-51f895935486</guid>
             <pubDate>Mon, 21 Mar 2016 22:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here's What Space Actually Looks Like to the Human Eye]]></title>
-            <description><![CDATA[<article><h1>Here's What Space Actually Looks Like to the Human Eye</h1><p>Photos of space are everywhere online. Their beauty is dazzling, showing a universe awash in color and light. But if you're a skeptic, you've likely wondered whether it all truly looks like that in real life. Michael Benson tries his best to show you in his exhibition Otherworlds: Visions of Our Solar System .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00e13c3b6a135096b803a7d24c8cce39f1718315.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/03/heres-space-actually-looks-like-human-eye/</link>
-            <guid isPermaLink="false">232beb06-6e91-4c3b-9a6b-07a3f75d9367</guid>
-            <pubDate>Mon, 21 Mar 2016 22:31:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
