@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 11:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 11:25:33 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coal plants use as much water as 1 billion people and consumption set to double: report]]></title>
+            <description><![CDATA[<article><h1>Coal plants use as much water as 1 billion people and consumption set to double: report</h1><p>Coal power plants use enough water to supply the needs of 1 billion people and that will almost double if all the world's planned power plants come online. Almost half the new power plants will be built in areas that are already in high water stress, a report commissioned by Greenpeace says.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32c083ae50a432e9be12beaa08c167063fe270f2.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/environment/2016/mar/22/world-water-day-coal-plants-use-as-much-water-as-1-billion-people-and-its-set-to-double</link>
+            <guid isPermaLink="false">5e67e1d4-438c-4b4f-96c1-02f793c8afff</guid>
+            <pubDate>Tue, 22 Mar 2016 11:25:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One Thing Considered: 'Stressed Out,' An Anthem of Millennial Anxiety]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.theguardian.com/science/2016/mar/22/supernova-shockwave-seen-with-visible-light-for-first-time</link>
             <guid isPermaLink="false">e4653ab8-24d9-4b25-ba42-f9e5caf80c49</guid>
             <pubDate>Tue, 22 Mar 2016 10:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['People thought we were on drugs - and we were!' ... Tony Conrad, the great avant-garde adventurer]]></title>
-            <description><![CDATA[<article><h1>'People thought we were on drugs - and we were!' ... Tony Conrad, the great avant-garde adventurer</h1><p>Seated in the control room of a decommissioned power station in the heart of Berlin, Tony Conrad is giving me a warning about drugs. "You're skating close to the edge with nutmeg," says the 75-year-old waving a finger, "because one-third of the lethal dose is the optimum high."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3418a0234f301e9240131997ef1011d89ce2471.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/music/2016/mar/22/people-thought-we-were-on-drugs-and-we-were-tony-conrad-the-great-avant-garde-adventurer</link>
-            <guid isPermaLink="false">b6dbc10e-103a-44a9-8ae5-d6cfe3753ba5</guid>
-            <pubDate>Tue, 22 Mar 2016 10:13:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
