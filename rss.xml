@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 10:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 10:13:50 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['People thought we were on drugs - and we were!' ... Tony Conrad, the great avant-garde adventurer]]></title>
+            <description><![CDATA[<article><h1>'People thought we were on drugs - and we were!' ... Tony Conrad, the great avant-garde adventurer</h1><p>Seated in the control room of a decommissioned power station in the heart of Berlin, Tony Conrad is giving me a warning about drugs. "You're skating close to the edge with nutmeg," says the 75-year-old waving a finger, "because one-third of the lethal dose is the optimum high."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3418a0234f301e9240131997ef1011d89ce2471.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/music/2016/mar/22/people-thought-we-were-on-drugs-and-we-were-tony-conrad-the-great-avant-garde-adventurer</link>
+            <guid isPermaLink="false">b6dbc10e-103a-44a9-8ae5-d6cfe3753ba5</guid>
+            <pubDate>Tue, 22 Mar 2016 10:13:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jasper Wong: Championing expression in a corporate climate]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.alternet.org/drugs/5-american-subcultures-love-speed-and-defy-stereotypes</link>
             <guid isPermaLink="false">b0f046ee-20d6-4b85-8d54-3454498f17d0</guid>
             <pubDate>Tue, 22 Mar 2016 09:42:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Social experiment shows hundreds ignoring 'homeless boy' in New Zealand]]></title>
-            <description><![CDATA[<article><h1>Social experiment shows hundreds ignoring 'homeless boy' in New Zealand</h1><p>A social experiment by New Zealand police has filmed hundreds of people ignoring a homeless boy digging through a rubbish bin in Auckland for food. The "hungry boy" video is part of a recruitment campaign by the New Zealand police, and poses the question "Do you care enough to be a cop?"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/532d806f41e0df85ff1cf5d26b3d5fb9b9703b97.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/world/2016/mar/22/social-experiment-shows-hundreds-ignoring-homeless-boy-in-new-zealand</link>
-            <guid isPermaLink="false">db8e54d8-0192-4202-8a3a-4c636122a529</guid>
-            <pubDate>Tue, 22 Mar 2016 09:17:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
