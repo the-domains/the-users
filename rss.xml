@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 11:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 11:14:30 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS abandons roll-out of HIV-preventing PrEP drugs]]></title>
+            <description><![CDATA[<article><h1>NHS abandons roll-out of HIV-preventing PrEP drugs</h1><p>The NHS has abandoned the roll-out of HIV-preventing PrEP drugs in the UK - despite a growing take-up elsewhere. Pre-Exposure Prophylaxis (PrEP) drug Truvada can drastically reduce people's chances of being infected with HIV by up to 99 percent if taken daily.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04485d72b089b2126ee66e5725f055b2dfde2db0.jpg"></article>]]></description>
+            <link>http://www.pinknews.co.uk/2016/03/21/nhs-abandons-roll-out-of-hiv-preventing-prep-drugs/</link>
+            <guid isPermaLink="false">a62cd1e4-3a11-4964-ac88-e96b26a41eaa</guid>
+            <pubDate>Tue, 22 Mar 2016 11:14:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Antipsychotic drugs may be harmful for people with Parkinson's]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.alternet.org/drugs/how-big-pharma-cashing-addiction-alcohol-and-illicit-drugs</link>
             <guid isPermaLink="false">995139f3-5b62-443a-9a87-6ee2d1ad9df6</guid>
             <pubDate>Tue, 22 Mar 2016 10:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Action Bronson Hits a High-Tech Dab Lab (F*CK, THAT'S DELICIOUS Deleted Scene)]]></title>
-            <description><![CDATA[<article><h1>Action Bronson Hits a High-Tech Dab Lab (F*CK, THAT'S DELICIOUS Deleted Scene)</h1><p>Action Bronson visits a high-tech dabs lab in this deleted scene from F*CK, THAT'S DELICIOUS on VICELAND.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25da84357c163d4410bdd6b9f300a927e264294d.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=avc5t9upFak</link>
-            <guid isPermaLink="false">234a6551-7529-4c49-b99a-a44158ddd6c3</guid>
-            <pubDate>Tue, 22 Mar 2016 10:01:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
