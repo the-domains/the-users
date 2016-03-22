@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 11:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 11:10:17 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antipsychotic drugs may be harmful for people with Parkinson's]]></title>
+            <description><![CDATA[<article><h1>Antipsychotic drugs may be harmful for people with Parkinson's</h1><p>Antipsychotic drugs that are commonly prescribed for people with Parkinson's disease may be causing additional harm, says research reported in JAMA Neurology. Physicians may prescribe antipsychotics for some patients with Parkinson's. Parkinson's disease is a neurological disorder primarily affecting older people.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e511a528f4bd0fd3effdd072224bf5b9e03a5be1.jpg"></article>]]></description>
+            <link>http://www.medicalnewstoday.com/articles/308163.php</link>
+            <guid isPermaLink="false">e5ec2134-4d5c-4fe2-83bb-73ca68d452db</guid>
+            <pubDate>Tue, 22 Mar 2016 11:09:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nixon started the War on Drugs because he couldn't declare war on black people and hippies]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=avc5t9upFak</link>
             <guid isPermaLink="false">234a6551-7529-4c49-b99a-a44158ddd6c3</guid>
             <pubDate>Tue, 22 Mar 2016 10:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Supermassive Black Hole Blasts 125 Million Miles-Per-Hour Winds]]></title>
-            <description><![CDATA[<article><h1>This Supermassive Black Hole Blasts 125 Million Miles-Per-Hour Winds</h1><p>At the heart of just about every galaxy, including our own Milky Way, there's a supermassive black hole-some of which are actively devouring "torn-apart stars, dust, rocks, planets, and anything that gets too close," Jesse Rogerson, a PhD candidate at York University in Toronto, told me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e245439756e1b1f07892072046626801cff7bba.png"></article>]]></description>
-            <link>http://motherboard.vice.com/read/this-supermassive-black-hole-blasts-125-million-mph-winds-York-University-Jesse-Rogerson</link>
-            <guid isPermaLink="false">74896435-011c-406d-8b47-9798748fa431</guid>
-            <pubDate>Tue, 22 Mar 2016 10:00:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
