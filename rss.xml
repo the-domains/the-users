@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 09:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 09:55:17 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A neural pathway that erases memories]]></title>
+            <description><![CDATA[<article><h1>A neural pathway that erases memories</h1><p>In order to remember, we must forget. Recent research shows that when your brain retrieves newly encoded information, it suppresses older related information so that it does not interfere with the process of recall. Now a team of European researchers has identified a neural pathway that induces forgetting by actively erasing memories.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64ed1d1f3b7f133bc1464f85cc8b7bbfbd3ce846.jpg"></article>]]></description>
+            <link>https://www.theguardian.com/science/neurophilosophy/2016/mar/18/a-neural-pathway-that-erases-memories</link>
+            <guid isPermaLink="false">835fa68a-9ff3-4004-87bd-38029d7dac53</guid>
+            <pubDate>Tue, 22 Mar 2016 09:54:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mitski - Your Best American Girl]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.wsj.com/articles/new-migraine-drugs-are-on-the-horizon-1458580246</link>
             <guid isPermaLink="false">374f3e73-ffb8-4442-bab7-7614d7812979</guid>
             <pubDate>Tue, 22 Mar 2016 09:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visionary Permaculture : Media Share - Chapel of Sacred Mirrors]]></title>
-            <description><![CDATA[<article><h1>Visionary Permaculture : Media Share - Chapel of Sacred Mirrors</h1><p>"More than an agricultural technology, permaculture is a vision of the societies of tomorrow, ours, which will be confronted with the evolution of energy and climate systems. Permaculture is not only another way to garden: it is another way of thinking about and acting on the world, a global philosophical and concrete change.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7317c771773c319e2f8bae549803d4047ea993bf.jpg"></article>]]></description>
-            <link>http://cosm.org/blog/visionary-permaculture-3/</link>
-            <guid isPermaLink="false">ee2bd423-2897-4555-82d2-51f895935486</guid>
-            <pubDate>Mon, 21 Mar 2016 22:37:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
