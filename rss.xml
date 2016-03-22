@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 20:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 20:36:44 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -21,15 +21,8 @@
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['Chilling Effect' of Mass Surveillance Is Silencing Dissent Online, Study Says]]></title>
-            <description><![CDATA[<article><h1>'Chilling Effect' of Mass Surveillance Is Silencing Dissent Online, Study Says</h1><p>Thanks largely to whistleblower Edward Snowden's revelations in 2013, most Americans now realize that the intelligence community monitors and archives all sorts of online behaviors of both foreign nationals and US citizens. But did you know that the very fact that you know this could have subliminally stopped you from speaking out online on issues you care about?</p><img src="http://motherboard-images.vice.com/content-images/article/31598/145817219784026.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/read/chilling-effect-of-mass-surveillance-is-silencing-dissent-online-study-says</link>
-            <guid isPermaLink="false">31c5fdae-8801-4595-afc3-ca373e7453cc</guid>
-            <pubDate>Tue, 22 Mar 2016 20:36:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['More effective than other drugs': Russian company says it has revolutionized cancer treatment]]></title>
-            <description><![CDATA[<article><h1>'More effective than other drugs': Russian company says it has revolutionized cancer treatment</h1><p>Russian pharmaceutical group Biocad has introduced a breakthrough new cancer drug, with early tests suggesting it is more effective in battling the disease than foreign analogues, the company says. The new drug activates inner powers to fight cancer, the company's press release said.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbf66a6e3844b36e74a6a2b71ea9854989b344a6.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>'More effective than other drugs': Russian company says it has revolutionized cancer treatment</h1><p>Russian pharmaceutical group Biocad has introduced a breakthrough new cancer drug, with early tests suggesting it is more effective in battling the disease than foreign analogues, the company says. The new drug activates inner powers to fight cancer, the company's press release said.</p><img src="https://cdn.rt.com/files/2016.03/article/56f17b36c361881c2c8b459b.jpg"></article>]]></description>
             <link>https://www.rt.com/news/336753-new-cancer-treatment-russia/</link>
             <guid isPermaLink="false">483e2ca9-1276-4a4d-a9c4-8221c0f3c79b</guid>
             <pubDate>Tue, 22 Mar 2016 20:36:16 GMT</pubDate>
@@ -75,6 +68,13 @@
             <link>http://jezebel.com/nixons-policy-advisor-admits-he-invented-war-on-drugs-t-1766359595</link>
             <guid isPermaLink="false">46708868-b0df-42fe-b8c0-6d4d99d57db4</guid>
             <pubDate>Tue, 22 Mar 2016 19:23:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking bad in the Middle East and North Africa: Drugs, militants, and human rights]]></title>
+            <description><![CDATA[<article><h1>Breaking bad in the Middle East and North Africa: Drugs, militants, and human rights</h1><p>This April, the U.N. General Assembly will meet for a Special Session on the World Drug Problem. After decades of conformity with a hardline "war on drugs" formerly promoted by the United States, there is increasing dissensus within the international community about how to best address the costs and harms posed by drugs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cf66195aee40229dc463626c3d4a7b035d0c9bc.jpg"></article>]]></description>
+            <link>http://www.brookings.edu/blogs/markaz/posts/2016/03/22-drug-policy-middle-east-felbabbrown-trinkunas-barakat</link>
+            <guid isPermaLink="false">cf25cc3b-0350-47c7-a885-0ec31ebb8fb7</guid>
+            <pubDate>Tue, 22 Mar 2016 16:41:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
