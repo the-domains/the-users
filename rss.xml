@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 21:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 21:31:30 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scientist David Nutt on the medical benefits of psychedelic drugs - FT.com]]></title>
+            <description><![CDATA[<article><h1>Scientist David Nutt on the medical benefits of psychedelic drugs - FT.com</h1><p>We have been in professor David Nutt's house for two minutes when he asks if I would like a cup of tea, a coffee, or perhaps a glass of alcosynth? The psychopharmacologist, widely known in the UK as the former government drugs adviser who was sacked</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f2078c28dcfe971a37e498bbc75cb4f6b25eb4f.img"></article>]]></description>
+            <link>http://www.ft.com/cms/s/2/2c4121de-c5d6-11e5-808f-8231cd71622e.html</link>
+            <guid isPermaLink="false">e3a09426-3976-4d3f-b1f7-17ad2e145715</guid>
+            <pubDate>Tue, 22 Mar 2016 21:30:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The medical marijuana mess: A prescription for fixing a broken policy]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/us-news/2016/mar/22/missouri-pharmacies-execution-drugs-death-penalty-lawsuit</link>
             <guid isPermaLink="false">1ed0cace-c34e-44bc-a9cf-b2dcbbe5a36c</guid>
             <pubDate>Tue, 22 Mar 2016 19:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poppers Will Not Be Banned]]></title>
-            <description><![CDATA[<article><h1>Poppers Will Not Be Banned</h1><p>Poppers will not be banned following a decision by the government to accept expert advice and U-turn on the plan. The drug had been expected to be made illegal under the provisions of the Psychoactive Substances Act which targeted so-called 'legal highs'.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b9e2189b2a4ef772c125af8fab9ca98e86b529f.jpg"></article>]]></description>
-            <link>http://www.huffingtonpost.co.uk/entry/poppers-will-not-be-banned-after-government-u-turns_uk_56f1281fe4b0cc1ede8ca618</link>
-            <guid isPermaLink="false">6f1bca6f-6387-4dd6-a9e3-312efc7e493d</guid>
-            <pubDate>Tue, 22 Mar 2016 19:37:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
