@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: About us page containing information about The Users
-datePublished: '2016-03-23T23:37:26.795Z'
-dateModified: '2016-03-23T23:37:24.621Z'
+datePublished: '2016-03-23T23:49:14.753Z'
+dateModified: '2016-03-23T23:39:47.622Z'
 title: We Are The Users
 author: []
+sourcePath: _posts/2016-03-23-we-are-the-users.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-we-are-the-users.md
-published: true
 url: we-are-the-users/index.html
 _type: WebPage
 
