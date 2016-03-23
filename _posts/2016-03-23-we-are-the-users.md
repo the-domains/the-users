@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: About us page containing information about The Users
-datePublished: '2016-03-23T23:50:46.796Z'
-dateModified: '2016-03-23T23:50:30.396Z'
+datePublished: '2016-03-23T23:59:12.586Z'
+dateModified: '2016-03-23T23:55:11.472Z'
 title: We Are The Users
 author: []
 sourcePath: _posts/2016-03-23-we-are-the-users.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: we-are-the-users/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a2bb76f-8ccd-4592-b155-2997c79684ec.jpg)
