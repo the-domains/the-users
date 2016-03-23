@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 20:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 20:05:11 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FDA Orders New Warnings For Opioid Pain Drug Labels; Whether They'll Have Much Effect Isn't Clear]]></title>
+            <description><![CDATA[<article><h1>FDA Orders New Warnings For Opioid Pain Drug Labels; Whether They'll Have Much Effect Isn't Clear</h1><p>Whether new black box warnings on opioid pain medication labels will reduce inappropriate prescribing isn't clear. Research suggests such warnings, the strongest type there is on drug labels, have mixed results.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73cc6223f0af6fa5686e6b1b05b8ce84c8d756cb.jpg"></article>]]></description>
+            <link>http://www.forbes.com/sites/ritarubin/2016/03/23/fda-orders-new-warnings-for-opioid-pain-drug-labels-whether-theyll-have-much-effect-isnt-clear/#1627c9525117</link>
+            <guid isPermaLink="false">a9bd0674-e862-4621-b658-122cc45d8383</guid>
+            <pubDate>Wed, 23 Mar 2016 20:03:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KING: Why the 'War on Drugs' is really a war on black people]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.newsandstar.co.uk/news/latest/10-homes-raided-in-Cumbria-police-drugs-operation-e472429e-eecc-47e5-be86-fad458261b1a-ds</link>
             <guid isPermaLink="false">fe111f88-49a1-4f5b-a9b1-592b7d4726fc</guid>
             <pubDate>Wed, 23 Mar 2016 20:03:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Celebrity barrister admits supplying drugs that killed his teen lover]]></title>
-            <description><![CDATA[<article><h1>Celebrity barrister admits supplying drugs that killed his teen lover</h1><p>Hendron had previously denied a string of drugs charges, but pleaded guilty to two charges of possessing drugs with intent to supply at the Old Bailey on Wednesday. His confession may mark the end of a glittering career for the Tory lawyer once tipped to lead the party.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc384da680ec67ee731d71665bd32f4687e3366f.jpg"></article>]]></description>
-            <link>http://www.telegraph.co.uk/news/uknews/law-and-order/12202565/Celebrity-barrister-admits-supplying-drugs-that-killed-his-teen-lover.html</link>
-            <guid isPermaLink="false">ab92f75b-f432-48ef-a61f-490993eebcb0</guid>
-            <pubDate>Wed, 23 Mar 2016 20:03:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
