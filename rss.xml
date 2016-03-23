@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 08:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 08:28:51 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rob Ford, former Toronto mayor, dies aged 46]]></title>
+            <description><![CDATA[<article><h1>Rob Ford, former Toronto mayor, dies aged 46</h1><p>Rob Ford, the pugnacious, populist former mayor of Toronto whose career crashed in a drug-driven, obscenity-laced debacle, died on Tuesday after fighting cancer, his family says. He was 46. Ford rode into office on a backlash against urban elites. He cast an image sharply at odds with Canada's reputation for sedate, unpretentious politics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f72903abf7408901e5dc41a386a6d7308178c2bf.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/world/2016/mar/22/rob-ford-dies-cancer-former-toronto-mayor</link>
+            <guid isPermaLink="false">c8c78c5c-e05d-47c6-b70b-0dea3ccd7c86</guid>
+            <pubDate>Wed, 23 Mar 2016 08:28:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rethink Drug Policy - Health Poverty Action]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.huffingtonpost.co.uk/entry/european-doctors-homosexuality-disease_uk_56f12a1ee4b0fbd4fe088867?utm_hp_ref=uk-news</link>
             <guid isPermaLink="false">0c75d232-e1a8-410f-bc5c-8d41a2848b94</guid>
             <pubDate>Tue, 22 Mar 2016 21:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Chilling Effect' of Mass Surveillance Is Silencing Dissent Online, Study Says]]></title>
-            <description><![CDATA[<article><h1>'Chilling Effect' of Mass Surveillance Is Silencing Dissent Online, Study Says</h1><p>Thanks largely to whistleblower Edward Snowden's revelations in 2013, most Americans now realize that the intelligence community monitors and archives all sorts of online behaviors of both foreign nationals and US citizens. But did you know that the very fact that you know this could have subliminally stopped you from speaking out online on issues you care about?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1799fdc9529d8c770319c07e116221b7ebcc9fe.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/read/chilling-effect-of-mass-surveillance-is-silencing-dissent-online-study-says</link>
-            <guid isPermaLink="false">31c5fdae-8801-4595-afc3-ca373e7453cc</guid>
-            <pubDate>Tue, 22 Mar 2016 20:36:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
