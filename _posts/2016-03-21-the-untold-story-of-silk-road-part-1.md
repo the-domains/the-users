@@ -17,8 +17,8 @@ keywords:
   - drug
   - fbi
 description: How a 29-year-old idealist built a global drug bazaar and became a murderous kingpin.
-datePublished: '2016-03-21T22:49:42.697Z'
-dateModified: '2016-03-21T22:49:29.067Z'
+datePublished: '2016-03-23T08:04:03.498Z'
+dateModified: '2016-03-22T00:27:29.693Z'
 author: []
 related: []
 app_links: []
