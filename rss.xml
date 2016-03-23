@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 18:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 18:07:00 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The science behind Ballard's High-Rise | Jesse Olszynko-Gryn]]></title>
+            <description><![CDATA[<article><h1>The science behind Ballard's High-Rise | Jesse Olszynko-Gryn</h1><p>Director Ben Wheatley's High-Rise opened last Friday in cinemas around the country. The timely and already much discussed adaptation of JG Ballard's 1975 novel traces the mechanical and social collapse of a new forty-storey luxury apartment block on the outskirts of London.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fe1659d5f99cf07030f943150e34b9642c2820e.jpg"></article>]]></description>
+            <link>https://www.theguardian.com/science/the-h-word/2016/mar/23/science-ballard-high-rise-animal-research-pathological-overcrowding</link>
+            <guid isPermaLink="false">a70394c5-a0d8-4a9c-85a3-9b6b977b8b8e</guid>
+            <pubDate>Wed, 23 Mar 2016 18:06:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dolphin-Human Relation and LSD 25]]></title>
@@ -68,13 +75,6 @@
             <link>https://aeon.co/essays/could-machines-have-become-self-aware-without-our-knowing-it</link>
             <guid isPermaLink="false">406eae37-b47a-4eb6-a864-3edb51eef6e4</guid>
             <pubDate>Wed, 23 Mar 2016 12:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drug War at Its Worst: Cop Shot Dead Serving a Syringe Possession Warrant]]></title>
-            <description><![CDATA[<article><h1>Drug War at Its Worst: Cop Shot Dead Serving a Syringe Possession Warrant</h1><p>March 22, 2016 Early Sunday morning, Howard County, Indiana Deputy Carl Koontz and Sgt. Jordan Buckley showed up to a Russiaville, Indiana home to serve a warrant. When they didn't get a response from the resident, they walked in. Minutes later, someone in the house began shooting at them, acc</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7ab0c243d70e52ba54459df9fa3daa47654febd.jpg"></article>]]></description>
-            <link>http://theinfluence.org/drug-war-at-its-worst-cop-shot-dead-serving-a-syringe-possession-warrant/</link>
-            <guid isPermaLink="false">be40ded2-661e-40a4-a5a9-bca339124c67</guid>
-            <pubDate>Wed, 23 Mar 2016 12:08:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
