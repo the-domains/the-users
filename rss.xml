@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 11:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 11:55:43 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Booming, and Opaque, Business of Dark Web Monitoring]]></title>
+            <description><![CDATA[<article><h1>The Booming, and Opaque, Business of Dark Web Monitoring</h1><p>Two groups of people make money from the so-called dark web: Criminals who use it to peddle illegal goods, and the companies who offer to track them on behalf of law enforcement and private clients. Both are now established trades, with the latter growing at an accelerating rate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3161c45e8bd5dd3c998ee338d5a924dbb0c9641.jpg"></article>]]></description>
+            <link>http://motherboard.vice.com/en_uk/read/the-booming-and-opaque-business-of-dark-web-monitoring</link>
+            <guid isPermaLink="false">ea6f7a2e-e3ad-4998-9ed0-d4ff367ff464</guid>
+            <pubDate>Thu, 24 Mar 2016 11:55:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Polish Government Supports Legal Access to Medical Cannabis]]></title>
@@ -68,13 +75,6 @@
             <link>http://clear-uk.org/the-economic-benefits-of-the-dutch-coffee-shops/</link>
             <guid isPermaLink="false">ac59cf1c-3949-42e5-b9ac-691d301144fb</guid>
             <pubDate>Thu, 24 Mar 2016 08:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Case studies: Catch 22 for those who help grandkids due to family drug addiction]]></title>
-            <description><![CDATA[<article><h1>Case studies: Catch 22 for those who help grandkids due to family drug addiction</h1><p>Many grandparents who intervene to care for their grandchildren because of their children's drug addiction are being put in a Catch 22 situation by the State. New research has found that if the grandparents step in before a legal care order is made, child protection services will not grant them a foster care allowance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/279ed7f4fb8a1101c1f3811f77ebf647779ed09b.png"></article>]]></description>
-            <link>http://www.irishexaminer.com/ireland/case-studies-catch-22-for-those-who-help-grandkids-due-to-family-drug-addiction-388912.html</link>
-            <guid isPermaLink="false">7d8acf02-3312-437d-b32c-f3aa55ad9583</guid>
-            <pubDate>Thu, 24 Mar 2016 01:37:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
