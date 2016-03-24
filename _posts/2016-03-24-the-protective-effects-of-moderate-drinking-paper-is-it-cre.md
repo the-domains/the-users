@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/JHolmesSheff/status/712925106608148480'
+inLanguage: en
+starred: false
+keywords:
+  - drink
+  - 6kzac01bra
+  - location
+  - twitter
+  - protection
+  - tweet
+  - credible
+  - sarg_scharr
+  - copying
+  - moderate
+description: 'The protective effects of moderate drinking paper: Is it credible that 1 drink per week gives this much protection?'
+datePublished: '2016-03-24T09:42:02.851Z'
+dateModified: '2016-03-24T09:29:12.296Z'
 author:
   - name: jholmessheff
     url: 'http://twitter.com/jholmessheff'
@@ -17,40 +37,22 @@ author:
           - 123
           - 129
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - drink
-  - 6kzac01bra
-  - location
-  - twitter
-  - protection
-  - tweet
-  - credible
-  - sarg_scharr
-  - copying
-  - moderate
-description: 'The protective effects of moderate drinking paper: Is it credible that 1 drink per week gives this much protection?'
-inLanguage: en
 app_links:
   - path: 'twitter/tweet?status_id=712925106608148480&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E712925106608148480'
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/JHolmesSheff/status/712925106608148480'
-datePublished: '2016-03-24T09:26:11.919Z'
-dateModified: '2016-03-24T09:22:25.057Z'
 title: ''
 sourcePath: _posts/2016-03-24-the-protective-effects-of-moderate-drinking-paper-is-it-cre.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![The protective effects of moderate drinking paper: Is it credible that 1 drink per week gives this much protection?](https://pbs.twimg.com/media/CeTRmziWwAATM8x.jpg:large)
+![The protective effects of moderate drinking paper: Is it credible that 1 drink per week gives this much protection?](https://s3-us-west-2.amazonaws.com/the-grid-img/p/014f49532c7d62da056a051e95c9aa8141b15541.jpg)
