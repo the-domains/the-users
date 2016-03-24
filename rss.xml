@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 11:55:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 14:18:08 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The War On Drugs Could Finally Come to An End at This UN Summit | VICE | United Kingdom]]></title>
+            <description><![CDATA[<article><h1>The War On Drugs Could Finally Come to An End at This UN Summit | VICE | United Kingdom</h1><p>(Photo by David Hudson) Next month, the 193 member states of the United Nations will meet to talk about drugs. The last time this happened, in 1998, the summit ended with a distinctly utopian ambition: the total eradication of all drugs from the entire world. "A drug-free world - we can do it!"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0746d3404ffdedb28898ed7eb1ff3b4119151acd.jpg"></article>]]></description>
+            <link>http://www.vice.com/en_uk/read/end-of-war-on-drugs-ungass</link>
+            <guid isPermaLink="false">369f51ae-574d-4b01-ae13-424ef6d84081</guid>
+            <pubDate>Thu, 24 Mar 2016 14:17:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Booming, and Opaque, Business of Dark Web Monitoring]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.gov.uk/government/publications/modern-crime-prevention-strategy</link>
             <guid isPermaLink="false">2ee9cbb4-c83c-4ab4-b2a5-4a3025f558bd</guid>
             <pubDate>Thu, 24 Mar 2016 08:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Economic Benefits of the Dutch Coffee-shops]]></title>
-            <description><![CDATA[<article><h1>The Economic Benefits of the Dutch Coffee-shops</h1><p>Since 1976, when the Netherlands decided to adopt a model of regulated cannabis distribution - the "Coffee-Shop Model" - there has been a constant debate among the Dutch, whether they are experts or regular citizens. This debate, of course, is about this experiment of international interest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0285a7d661e1a596d3ddc74650ea68e17e8ad6ef.jpg"></article>]]></description>
-            <link>http://clear-uk.org/the-economic-benefits-of-the-dutch-coffee-shops/</link>
-            <guid isPermaLink="false">ac59cf1c-3949-42e5-b9ac-691d301144fb</guid>
-            <pubDate>Thu, 24 Mar 2016 08:20:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
