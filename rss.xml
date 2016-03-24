@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 19:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 19:26:46 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Medical experts call for global drug decriminalisation]]></title>
+            <description><![CDATA[<article><h1>Medical experts call for global drug decriminalisation</h1><p>An international commission of medical experts is calling for global drug decriminalisation, arguing that current policies lead to violence, deaths and the spread of disease, harming health and human rights.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8658b138533fac2ebc155f24234ddf8e89c08b54.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/society/2016/mar/24/medical-experts-call-for-global-drug-decriminalisation</link>
+            <guid isPermaLink="false">e7de6a8b-583b-4255-9a31-199052ec67e1</guid>
+            <pubDate>Thu, 24 Mar 2016 19:26:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Do We Overstate the Role Trauma Plays in Addiction?]]></title>
@@ -68,13 +75,6 @@
             <link>http://mantis.link/EJ-dvi36g</link>
             <guid isPermaLink="false">680ec665-c514-4e8e-bc32-a8bfcc595be9</guid>
             <pubDate>Thu, 24 Mar 2016 10:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clayton County law enforcement offers tips on spotting signs of drug use in teens]]></title>
-            <description><![CDATA[<article><h1>Clayton County law enforcement offers tips on spotting signs of drug use in teens</h1><p>Moser said he has seen Cookie Monster insignia often in Clayton County. "I'm telling you, if you're observant, kids give it away," he said. Moser addressed about 50 people Tuesday night at a "Hidden in Plain Sight" drug awareness event hosted at Keystone Area Education Agency in Elkader.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b81af595832dbf5de5c5dbe5e30b48b44150694c.jpg"></article>]]></description>
-            <link>http://www.thonline.com/news/tri-state/article_89aefc07-cec1-5490-babc-02cbf88197a9.html</link>
-            <guid isPermaLink="false">185bb076-1681-4243-b30f-6253f8a389f6</guid>
-            <pubDate>Thu, 24 Mar 2016 10:07:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
