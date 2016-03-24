@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: About us page containing information about The Users
-datePublished: '2016-03-24T00:11:49.262Z'
-dateModified: '2016-03-24T00:11:44.868Z'
+datePublished: '2016-03-24T00:17:04.644Z'
+dateModified: '2016-03-24T00:15:38.248Z'
 title: About Us
 author: []
 sourcePath: _posts/2016-03-23-we-are-the-users.md
