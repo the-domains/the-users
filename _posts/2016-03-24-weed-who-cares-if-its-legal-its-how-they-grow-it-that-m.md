@@ -17,8 +17,8 @@ keywords:
   - pot
   - electricity
 description: "We've been in here for approximately two minutes and we're already high. Nope, we're not in an Amsterdam coffee shop. And no, we're not at that mate-who-loves-to-skin-up's house, either. We're in a potting shed - aptly named - in Devon, South-West England, admiring a decent array of healthy-looking cannabis plants that are in different stages of growth."
-datePublished: '2016-03-24T19:29:50.895Z'
-dateModified: '2016-03-24T19:29:43.902Z'
+datePublished: '2016-03-24T21:04:51.308Z'
+dateModified: '2016-03-24T21:04:06.133Z'
 author:
   - name: Matt Fleming and Deej Sullivan
     url: 'https://collectively.org/en/contributor/matt-fleming-and-deej-sullivan/'
