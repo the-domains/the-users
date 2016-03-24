@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 10:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 11:30:49 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Humanizing the heroin epidemic: a photo essay]]></title>
+            <description><![CDATA[<article><h1>Humanizing the heroin epidemic: a photo essay</h1><p>For over a year, I've been documenting the lives of three long-term drug users - Marie, Cheryl and Johnny - who are participating in Vancouver's heroin-assisted clinical study and program. In recent years, heroin use in North America has exploded into an "epidemic."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eabead02a65d9d310a84d50c3a0b9fd93192d57f.jpg"></article>]]></description>
+            <link>https://theconversation.com/humanizing-the-heroin-epidemic-a-photo-essay-56412</link>
+            <guid isPermaLink="false">58e981b8-17f2-4b2e-a12d-a1f267d1ea01</guid>
+            <pubDate>Thu, 24 Mar 2016 11:30:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Physicians Face Moral Dilemma in Conscription on War on Drugs]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.huckmagazine.com/art-and-culture/art-2/moritz-stefaner-data-visualisation-artist-playing-future/</link>
             <guid isPermaLink="false">4fc4ebb7-534c-43db-9c41-010d22f35e46</guid>
             <pubDate>Thu, 24 Mar 2016 01:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teen drug use higher in poorer Irish families]]></title>
-            <description><![CDATA[<article><h1>Teen drug use higher in poorer Irish families</h1><p>Adolescent substance abuse here is below average of 42 countries, but most likely among less affluent Irish adolescents from lower-income families are more likely to use alcohol, cannabis, and cigarettes, contrary to the experience in the bulk of 42 countries surveyed by the World Health Organisation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/279ed7f4fb8a1101c1f3811f77ebf647779ed09b.png"></article>]]></description>
-            <link>http://www.irishexaminer.com/ireland/teen-drug-use-higher-in-poorer-irish-families-388265.html</link>
-            <guid isPermaLink="false">00114481-b6fe-4fb4-ae8f-aaca60ccdb37</guid>
-            <pubDate>Thu, 24 Mar 2016 01:07:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
