@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Things found in time
-datePublished: '2016-03-26T21:37:45.540Z'
-dateModified: '2016-03-26T21:37:26.937Z'
+datePublished: '2016-03-26T21:47:20.189Z'
+dateModified: '2016-03-26T21:42:30.862Z'
 title: The Final Paradiddle..
 author: []
+sourcePath: _posts/2016-03-26-the-final-paradiddle.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-the-final-paradiddle.md
-published: true
 url: the-final-paradiddle/index.html
 _type: Article
 
