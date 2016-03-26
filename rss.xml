@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 21:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 21:39:22 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Final Paradiddle..]]></title>
+            <description><![CDATA[<article><h1>The Final Paradiddle..</h1><p>Things found in time</p></article>]]></description>
+            <link>http://the-users.com/the-final-paradiddle/index.html</link>
+            <guid isPermaLink="false">92d0eeb9-abcd-48b3-acdd-8d6f96f7a0f9</guid>
+            <pubDate>Sat, 26 Mar 2016 21:37:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How the Felony Drug Ban Keeps Thousands of Americans Hungry]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Drugs by mail: Waukesha Co. investigates pot, heroin, meth shipped through U.S. Postal Service</h1><p>WAUKESHA COUNTY -- Waukesha County authorities are investigating marijuana, meth and heroin all being shipped through the U.S. Postal Service. Investigators believe the drugs were being mailed from California to Waukesha County. On any given day, millions of packages are shipped across the United States.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6fb41255517e8e71a149f7f8012fac39768dcb5.jpg"></article>]]></description>
             <link>http://fox6now.com/2016/03/25/drugs-by-mail-waukesha-co-investigates-pot-heroin-meth-shipped-through-u-s-postal-service/</link>
             <guid isPermaLink="false">584dfa96-e558-49f7-b4be-32915abe8a4e</guid>
-            <pubDate>Sat, 26 Mar 2016 12:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drugs, guns, money: Inside a suburban CNY fentanyl mill (photos)]]></title>
-            <description><![CDATA[<article><h1>Drugs, guns, money: Inside a suburban CNY fentanyl mill (photos)</h1><p>SYRACUSE, N.Y. -- Do not touch fentanyl without gloves. That's the warning six people suspected of running a fentanyl processing mill in Clay gave investigators who raided a suburban home where they were packaging drugs Wednesday, said Onondaga County Sheriff Gene Conway.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbc0fbeccc70e3de09a25ad2524087f95e74d069.jpg"></article>]]></description>
-            <link>http://www.syracuse.com/crime/index.ssf/2016/03/drugs_guns_money_inside_the_clay_fentanyl_mill.html</link>
-            <guid isPermaLink="false">192e3d14-8f1e-425b-be51-227660dcbc54</guid>
             <pubDate>Sat, 26 Mar 2016 12:10:02 GMT</pubDate>
         </item>
     </channel>
