@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 10:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 10:24:05 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['People will use harder drugs': legal high users on the impact of law changes]]></title>
+            <description><![CDATA[<article><h1>'People will use harder drugs': legal high users on the impact of law changes</h1><p>The ban on legal highs, which will come into law on 6 April, will have a big impact on Katie, 52, from East Sussex. It will criminalise the sale of kratom - derived from a tropical plant - which she uses for pain relief for chronic arthritis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cd8099ecbe96d544eacc93102246c64e80592d2.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/commentisfree/2016/mar/28/ban-legal-highs-people-will-use-harder-drugs-law-changes</link>
+            <guid isPermaLink="false">b81ddaa3-5a8d-4d92-a9e4-88fbbefd24ea</guid>
+            <pubDate>Mon, 28 Mar 2016 10:23:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Legalize All Drugs? The 'Risks Are Tremendous' Without Defining The Problem]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.latimes.com/world/mexico-americas/la-fg-global-abortion-drugs-20160327-story.html</link>
             <guid isPermaLink="false">b821cf20-32b5-475f-bbab-ec330bc754c3</guid>
             <pubDate>Sun, 27 Mar 2016 13:56:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Know Before You Toke: How Not to End Up in the ER on Your Excellent Pot Tourism Adventure]]></title>
-            <description><![CDATA[<article><h1>Know Before You Toke: How Not to End Up in the ER on Your Excellent Pot Tourism Adventure</h1><p>After relocating to Denver last month, I soon noticed a flurry of articles in local and national media suggesting that marijuana is increasingly driving Colorado visitors to hospitals. Other than feeling vaguely relieved to no longer count myself among the vacationers here, I wasn't sure what to make of this information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e32bddf3970e6fd0fdd1042c8234edc9da70cb1.jpg"></article>]]></description>
-            <link>http://www.alternet.org/drugs/know-toke-not-end-er-pot-tourism</link>
-            <guid isPermaLink="false">9af66684-7c6a-4dd0-99e2-0e85f018af24</guid>
-            <pubDate>Sat, 26 Mar 2016 22:22:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
