@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 10:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 10:30:00 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Des Moines police: Inmate who died might have ingested bag of drugs]]></title>
+            <description><![CDATA[<article><h1>Des Moines police: Inmate who died might have ingested bag of drugs</h1><p>A Polk County Jail inmate who died Friday while in custody may have ingested a bag of drugs when confronted by officers on Wednesday, the Des Moines Police Department said in a release later Sunday. Lamont Walls, 38, of Des Moines, was found unresponsive in his cell on Friday afternoon, a Polk County Sheriff's Office news release stated.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e5c94d46d0c917ea52ded87bf78c51c70b77669.jpg"></article>]]></description>
+            <link>http://www.desmoinesregister.com/story/news/crime-and-courts/2016/03/27/des-moines-police-inmate-who-died-might-have-ingested-bag-drugs/82325556/</link>
+            <guid isPermaLink="false">ce48ad78-d0ca-4082-a20b-e0ba25b07ec3</guid>
+            <pubDate>Mon, 28 Mar 2016 10:29:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Local educators plan partnerships to tackle synthetic drugs]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theage.com.au/afl/afl-news/jeff-kennett-afl-should-consider-scrapping-illicit-drugs-policy-20160327-gns0d2.html</link>
             <guid isPermaLink="false">1951b309-b9bf-4bb8-b4fe-4991d299422b</guid>
             <pubDate>Mon, 28 Mar 2016 10:20:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Agents Watch as 'Narco Sub' Carrying $194 Million Worth of Cocaine Sinks After Bust | VICE News]]></title>
-            <description><![CDATA[<article><h1>US Agents Watch as 'Narco Sub' Carrying $194 Million Worth of Cocaine Sinks After Bust | VICE News</h1><p>US authorities nearly caught a white whale this week: A semi-submersible "narco sub" carrying around 5.5 tons cocaine worth nearly $194 million. But before the Americans could haul their catch ashore, the boat sank to the bottom of the ocean with all of its illicit cargo still aboard.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9adc9ee54f749cfed60e3832b9c2ac06b01cc339.jpg"></article>]]></description>
-            <link>https://news.vice.com/article/us-agents-watch-as-narco-sub-carrying-194-million-worth-of-cocaine-sinks-after-bust</link>
-            <guid isPermaLink="false">ba645559-dda9-4ab0-90cb-dc5b75679049</guid>
-            <pubDate>Mon, 28 Mar 2016 09:37:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
