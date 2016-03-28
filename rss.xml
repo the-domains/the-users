@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 09:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 09:37:59 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Agents Watch as 'Narco Sub' Carrying $194 Million Worth of Cocaine Sinks After Bust | VICE News]]></title>
+            <description><![CDATA[<article><h1>US Agents Watch as 'Narco Sub' Carrying $194 Million Worth of Cocaine Sinks After Bust | VICE News</h1><p>US authorities nearly caught a white whale this week: A semi-submersible "narco sub" carrying around 5.5 tons cocaine worth nearly $194 million. But before the Americans could haul their catch ashore, the boat sank to the bottom of the ocean with all of its illicit cargo still aboard.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9adc9ee54f749cfed60e3832b9c2ac06b01cc339.jpg"></article>]]></description>
+            <link>https://news.vice.com/article/us-agents-watch-as-narco-sub-carrying-194-million-worth-of-cocaine-sinks-after-bust</link>
+            <guid isPermaLink="false">ba645559-dda9-4ab0-90cb-dc5b75679049</guid>
+            <pubDate>Mon, 28 Mar 2016 09:37:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LSD Could Help Fight Depression By Inhibiting "Mental Time Travel"]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.vice.com/read/talking-acid-trips-and-drug-legalization-with-a-new-psychedelic-advocacy-group-in-brooklyn</link>
             <guid isPermaLink="false">dc63d0dc-ca6d-44c9-a212-8664d403730d</guid>
             <pubDate>Sat, 26 Mar 2016 22:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Public health experts: Decriminalize minor drug offenses]]></title>
-            <description><![CDATA[<article><h1>Public health experts: Decriminalize minor drug offenses</h1><p>In another grim statistic related to opioid use, 135 people were infected with HIV last year in rural Indiana, an outbreak linked to injecting the prescription drug Opana. Experts have worried that communities in the states of Kentucky and West Virginia could also be at risk of an HIV outbreak because of high rates of opioid abuse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95202b4fcd00e273a1d6252f8e4af16d27fe6f36.jpg"></article>]]></description>
-            <link>http://us.cnn.com/2016/03/25/health/decriminalize-minor-drug-offenses-public-health/index.html</link>
-            <guid isPermaLink="false">7af79015-4dcd-43e7-810d-0722775ae1a0</guid>
-            <pubDate>Sat, 26 Mar 2016 22:22:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
