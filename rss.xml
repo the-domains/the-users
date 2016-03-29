@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 09:31:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 09:31:43 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
@@ -19,6 +19,13 @@
             <link>http://theinfluence.org/karl-ove-knausgard-in-america-an-alcoholic-in-scandinavia-just-a-genius/</link>
             <guid isPermaLink="false">7ced9568-7ffd-4e74-92e9-b9ca4ade8bac</guid>
             <pubDate>Mon, 21 Mar 2016 19:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: U.S. throws out almost $3 billion worth of cancer drugs each year]]></title>
+            <description><![CDATA[<article><h1>Report: U.S. throws out almost $3 billion worth of cancer drugs each year</h1><p>The U.S. medical system throws out around $2.8 billion worth of cancer drugs each year because they come in large vials that contain more medication than the typical patient needs, according to a new report from the Memorial Sloan Kettering Cancer Center in New York City.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a675a8dc156ad8165fdb09922c48185ea70e6e2e.jpg"></article>]]></description>
+            <link>http://www.phillyvoice.com/us-throws-out-almost-3-billion-worth-cancer-drugs-each-year/</link>
+            <guid isPermaLink="false">7bff76c4-4404-40e2-addd-203d14a90090</guid>
+            <pubDate>Tue, 29 Mar 2016 09:30:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drugs: 396 Bay offenders get off with warning - Bay of Plenty Times - Bay of Plenty Times News]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.washingtonpost.com/news/worldviews/wp/2016/03/28/time-to-decriminalize-drugs-a-global-panel-says-yes/</link>
             <guid isPermaLink="false">efc35347-6de3-4b7a-a399-059722b83c04</guid>
             <pubDate>Tue, 29 Mar 2016 09:30:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teen Suicide - The Big Joyous Celebration (Official Music Video)]]></title>
-            <description><![CDATA[<article><h1>Teen Suicide - The Big Joyous Celebration (Official Music Video)</h1><p>Official music video for 'The Big Joyous Celebration' by Teen Suicide from the double album 'It's the Big Joyous Celebration, Let's Stir the Honeypot' out April 1st, 2016 on RFC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40035dcd8f240144330b7d40a4e4a47c41a17e2c.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=8-lL2tGmYUg</link>
-            <guid isPermaLink="false">4b0bc7b8-b0ab-4bdd-8935-e45f59f2d6b1</guid>
-            <pubDate>Tue, 29 Mar 2016 09:29:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
