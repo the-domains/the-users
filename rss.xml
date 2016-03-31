@@ -4,8 +4,15 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 20:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 20:03:17 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inside Big Pharma's Campaign To Put Us All To Sleep.]]></title>
+            <description><![CDATA[<article><h1>Inside Big Pharma's Campaign To Put Us All To Sleep.</h1><p>One evening in the late summer of 2015, Lisa Schwartz was watching television at her Vermont home when an ad for a sleeping pill called Belsomra appeared on the screen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afa468cb06c1a1102a9b51c3289bb0b0ee581692.jpg"></article>]]></description>
+            <link>http://highline.huffingtonpost.com/articles/en/sleep-advertising/</link>
+            <guid isPermaLink="false">7cae422a-a390-4fc0-ad03-2abb03664376</guid>
+            <pubDate>Thu, 31 Mar 2016 20:03:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Untold Story of Silk Road, Part 1]]></title>
             <description><![CDATA[<article><h1>The Untold Story of Silk Road, Part 1</h1><p>How a 29-year-old idealist built a global drug bazaar and became a murderous kingpin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f78f66e3c06549bdb492f63e71df70db4bf8729.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.tdpf.org.uk/blog/5-reasons-why-new-%E2%80%98psychoactive-substances-bill%E2%80%99-should-be-scrapped-and-1-reason-commend-it#.Vv0d4xozeKA.twitter</link>
             <guid isPermaLink="false">3935c136-7373-4d5f-b212-5f541e315c59</guid>
             <pubDate>Thu, 31 Mar 2016 19:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. firms target investment in Israeli cannabis R&D]]></title>
-            <description><![CDATA[<article><h1>U.S. firms target investment in Israeli cannabis R&D</h1><p>TEL AVIV Already a pioneer in high-tech and cutting-edge agriculture, Israel is starting to attract American companies looking to bring medical marijuana know-how to a booming market back home. Since 2014, U.S. firms have invested about $50 million in licensing Israeli medical marijuana patents, cannabis agro-tech startups and firms developing delivery devices such as inhalers, said Saul Kaye, CEO of iCAN, a private cannabis research hub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35704f15c68be98d74ad381998b512074dd1802f.jpg"></article>]]></description>
-            <link>http://www.reuters.com/article/us-israel-cannabis-idUSKCN0WV1KD</link>
-            <guid isPermaLink="false">0216bea6-29f0-4ff9-8c04-6e6f176a61ea</guid>
-            <pubDate>Thu, 31 Mar 2016 19:25:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
