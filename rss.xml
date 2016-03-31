@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 20:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 20:22:07 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside Big Pharma's Campaign To Put Us All To Sleep.]]></title>
@@ -12,6 +12,13 @@
             <link>http://highline.huffingtonpost.com/articles/en/sleep-advertising/</link>
             <guid isPermaLink="false">7cae422a-a390-4fc0-ad03-2abb03664376</guid>
             <pubDate>Thu, 31 Mar 2016 20:03:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Do the Feds Usually Try to Unlock Phones? It's Drugs, Not Terrorism]]></title>
+            <description><![CDATA[<article><h1>Why Do the Feds Usually Try to Unlock Phones? It's Drugs, Not Terrorism</h1><p>Until the FBI backed down from its battle with Apple over accessing the iPhone 5c of San Bernardino shooter Syed Rizwan Farook, it seemed the agency had chosen a near-perfect case on which to make its stand against encryption.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09c88f3d721a6a9276728b2642d5775298da8510.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/03/feds-usually-try-unlock-phones-drugs-not-terrorism/</link>
+            <guid isPermaLink="false">1caa4911-2d71-489e-9d8b-b1e9fdf7ee92</guid>
+            <pubDate>Thu, 31 Mar 2016 20:21:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The drug addict who changed Obama's opinion of drug laws has died]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-35926655</link>
             <guid isPermaLink="false">13e7db68-3329-4b67-a60f-8a66f08c6c73</guid>
             <pubDate>Thu, 31 Mar 2016 20:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Psychoactive Substances Act Postponed Indefinitely - VolteFace]]></title>
-            <description><![CDATA[<article><h1>Psychoactive Substances Act Postponed Indefinitely - VolteFace</h1><p>After weeks of rumours, it has finally been confirmed that the much-maligned Psychoactive Substances Act (which was due to come into force on April 6th) has been postponed indefinitely. In a post on the website of the Alternative Trade Association, a copy of a letter sent to the owner of a Hampshire-based headshop has ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e50edd66606f1381d58971562324e2af045f521.jpg"></article>]]></description>
-            <link>http://volteface.me/psychoactive-substances-bill-postponed-indefinitely/</link>
-            <guid isPermaLink="false">2a536d4c-9dce-4b3d-b4d0-8afaf7a4a67e</guid>
-            <pubDate>Thu, 31 Mar 2016 19:26:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
