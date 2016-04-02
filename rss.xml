@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 18:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 19:29:17 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside Big Pharma's Campaign To Put Us All To Sleep.]]></title>
@@ -12,6 +12,13 @@
             <link>http://highline.huffingtonpost.com/articles/en/sleep-advertising/</link>
             <guid isPermaLink="false">7cae422a-a390-4fc0-ad03-2abb03664376</guid>
             <pubDate>Thu, 31 Mar 2016 20:03:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thinking to some purpose]]></title>
+            <description><![CDATA[<article><h1>Thinking to some purpose</h1><p>The theme of the conference was prohibition, particularly in response to the Psychoactive Substances Act, which may or may not be implemented in the next month or two. Given the media coverage of the Act this week, I think it's timely to comment on some of the discussions we had.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3ee722ad6543a07c1a00d4e214ebcb20ac43499.jpg"></article>]]></description>
+            <link>http://thinking-to-some-purpose.blogspot.com/2016/04/what-do-we-mean-by-drugs.html</link>
+            <guid isPermaLink="false">55288017-245c-4da9-af14-91a638794506</guid>
+            <pubDate>Sat, 02 Apr 2016 19:28:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[People who never forget their past could have unique kind of OCD]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.thestranger.com/news/2016/03/30/23894686/medical-marijuana-patients-worry-that-the-states-new-pot-authorization-form-is-an-overshare</link>
             <guid isPermaLink="false">98624151-d99a-41af-b6f9-619262fe9794</guid>
             <pubDate>Sat, 02 Apr 2016 18:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Cannibal' murder triggered by illegal drugs, says health watchdog]]></title>
-            <description><![CDATA[<article><h1>'Cannibal' murder triggered by illegal drugs, says health watchdog</h1><p>The murder of a young woman in an apparent cannibal attack by a recently released prisoner was likely to have been triggered by a severe reaction to illegal drugs, a health watchdog has found.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f3f6ba0b8ff8a1d1d8d0a78b0b3dc8aadc67a61.jpg"></article>]]></description>
-            <link>http://www.theguardian.com/uk-news/2016/mar/30/cannibal-triggered-by-attackers-illegal-drugtaking-says-health-watchdog</link>
-            <guid isPermaLink="false">474c3502-cb76-41b0-a1f5-e6fc61cf771f</guid>
-            <pubDate>Fri, 01 Apr 2016 11:24:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
