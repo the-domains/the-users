@@ -4,7 +4,7 @@
         <description><![CDATA[the-users]]></description>
         <link>http://the-users.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 18:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 18:56:17 GMT</lastBuildDate>
         <atom:link href="http://the-users.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Inside Big Pharma's Campaign To Put Us All To Sleep.]]></title>
@@ -12,6 +12,13 @@
             <link>http://highline.huffingtonpost.com/articles/en/sleep-advertising/</link>
             <guid isPermaLink="false">7cae422a-a390-4fc0-ad03-2abb03664376</guid>
             <pubDate>Thu, 31 Mar 2016 20:03:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[People who never forget their past could have unique kind of OCD]]></title>
+            <description><![CDATA[<article><h1>People who never forget their past could have unique kind of OCD</h1><p>Remember what you had for breakfast exactly one month ago? Probably not, but ask Bob Petrella and he'll tell you what he ate, the conversations he had and what the weather was like (see box below). Although most of us remember only snapshots of our past, a select few people remember every day as if it were yesterday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5644b9001c999405c1494b5768989e62f1f9592a.jpg"></article>]]></description>
+            <link>https://www.newscientist.com/article/2082771-people-who-never-forget-their-past-could-have-unique-kind-of-ocd/</link>
+            <guid isPermaLink="false">b717286a-f583-4646-8f21-27f2ca8542ba</guid>
+            <pubDate>Sat, 02 Apr 2016 18:55:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smoking while pregnant alters the baby's DNA: researchers]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/uk-news/2016/mar/30/cannibal-triggered-by-attackers-illegal-drugtaking-says-health-watchdog</link>
             <guid isPermaLink="false">474c3502-cb76-41b0-a1f5-e6fc61cf771f</guid>
             <pubDate>Fri, 01 Apr 2016 11:24:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Painkiller fentanyl linked to six deaths and numerous overdoses in Sacramento area]]></title>
-            <description><![CDATA[<article><h1>Painkiller fentanyl linked to six deaths and numerous overdoses in Sacramento area</h1><p>Fentanyl, a powerful painkiller that can be fatal even in small doses, is the latest front in a nationwide epidemic of street drug abuse, recently becoming the prime suspect in a rash of overdoses that killed six people in less than a week in Sacramento County.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9af444a95660d6af80c8147779a591a6b5dc629.jpg"></article>]]></description>
-            <link>http://www.latimes.com/local/lanow/la-me-ln-fentanyl-contaminated-street-drugs-20160330-story.html</link>
-            <guid isPermaLink="false">8cfe9fd7-283b-4dad-831b-78ed87c6de69</guid>
-            <pubDate>Fri, 01 Apr 2016 11:24:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
