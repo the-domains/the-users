@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://erowid.org'
   name: Erowid
-  favicon: 'https://erowid.org/favicon.ico'
   domain: erowid.org
+  url: 'https://erowid.org'
+  favicon: 'https://erowid.org/favicon.ico'
 keywords:
   - dosing
   - psychoactive
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://erowid.org/psychoactives/basics/basics_article6.shtml'
 title: 'Erowid Psychoactive Vaults : How to Have a Bad Trip, Alienate Your Friends, Get Hospitalized, or Die from Taking Relatively Safe Drugs'
-datePublished: '2016-04-02T19:28:40.997Z'
-dateModified: '2016-04-02T19:26:30.805Z'
+datePublished: '2016-04-02T19:33:29.986Z'
+dateModified: '2016-04-02T19:33:13.774Z'
 sourcePath: _posts/2016-04-02-erowid-psychoactive-vaults-how-to-have-a-bad-trip-alienat.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
