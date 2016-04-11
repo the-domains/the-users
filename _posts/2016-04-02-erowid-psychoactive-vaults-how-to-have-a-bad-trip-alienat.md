@@ -22,14 +22,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://erowid.org/psychoactives/basics/basics_article6.shtml'
 title: 'Erowid Psychoactive Vaults : How to Have a Bad Trip, Alienate Your Friends, Get Hospitalized, or Die from Taking Relatively Safe Drugs'
-datePublished: '2016-04-02T19:33:29.986Z'
-dateModified: '2016-04-02T19:33:13.774Z'
+datePublished: '2016-04-11T22:26:54.685Z'
+dateModified: '2016-04-11T22:26:41.905Z'
 sourcePath: _posts/2016-04-02-erowid-psychoactive-vaults-how-to-have-a-bad-trip-alienat.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _context: 'http://schema.org'
 _type: MediaObject
