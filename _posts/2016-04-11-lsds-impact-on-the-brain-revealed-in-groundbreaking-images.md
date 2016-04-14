@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.theguardian.com/science/2016/apr/11/lsd-impact-brain-revealed-groundbreaking-images'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - lsd
   - brain
@@ -17,8 +17,8 @@ keywords:
   - visual
   - beckley
 description: 'The profound impact of LSD on the brain has been laid bare by the first modern scans of people high on the drug. The images, taken from volunteers who agreed to take a trip in the name of science, have given researchers an unprecedented insight into the neural basis for effects produced by one of the most powerful drugs ever created.'
-datePublished: '2016-04-11T22:27:38.416Z'
-dateModified: '2016-04-11T22:27:26.351Z'
+datePublished: '2016-04-14T17:27:55.822Z'
+dateModified: '2016-04-14T17:27:34.736Z'
 author:
   - name: Ian Sample
     url: 'http://www.theguardian.com/profile/iansample'
